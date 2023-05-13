@@ -11,7 +11,7 @@ function update_readme($categories) {
     foreach ($categories as $category => $templates) {
         $category = str_replace("-", " ", $category);
         $category = ucwords($category);
-        fwrite($readme, "## $category\n");
+        fwrite($readme, "\n## $category\n");
         usort($templates, function($a, $b) { return strcmp($a['name'], $b['name']); });  // Sort templates alphabetically within each category
         foreach ($templates as $template) {
             fwrite($readme, "- **[{$template['name']}](/{$template['relative_path']})**: {$template['description']}\n");
