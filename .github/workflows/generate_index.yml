@@ -1,0 +1,36 @@
+name: Generate Index
+
+on:
+  pull_request:
+
+jobs:
+  build:
+    name: "Generate index and readme"
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v3
+
+    - name: Setup PHP
+      uses: shivammathur/setup-php@v2
+      with:
+        php-version: '8.1'
+
+    - name: Check committer
+      id: check
+      run: |
+        COMMITTER=$(git log -1 --pretty=format:'%ae')
+        echo "::set-output name=committer::$COMMITTER"
+    
+    - name: Run script
+      run: php script.php
+      if: steps.check.outputs.committer != 'action@github.com'
+      
+    - name: Commit and push if it changed
+      run: | 
+        git diff
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -am "Update index.json and README.md" || exit 0
+        git push
