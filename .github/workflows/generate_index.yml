@@ -24,7 +24,7 @@ jobs:
         echo "::set-output name=committer::$COMMITTER"
     
     - name: Run script
-      run: php script.php
+      run: php .github/workflows/scripts/generate_index.php
       if: steps.check.outputs.committer != 'action@github.com'
       
     - name: Commit and push if it changed
