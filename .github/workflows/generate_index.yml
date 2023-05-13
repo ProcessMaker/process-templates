@@ -23,11 +23,11 @@ jobs:
       id: check
       run: |
         COMMITTER=$(git log -1 --pretty=format:'%ae')
-        echo "::set-output name=committer::$COMMITTER"
+        echo "COMMITTER=$COMMITTER" >> $GITHUB_ENV
     
     - name: Run script
-      run: php .github/workflows/scripts/generate_index.php
-      if: steps.check.outputs.committer != 'action@github.com'
+      run: php script.php
+      if: env.COMMITTER != 'action@github.com'
       
     - name: Commit and push if it changed
       run: | 
