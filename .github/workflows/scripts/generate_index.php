@@ -6,7 +6,7 @@ function compute_hash($data) {
 
 function update_readme($categories) {
     $readme = fopen("README.md", "w");
-    fwrite($readme, "# ProcessMaker Process Templates\n");
+    fwrite($readme, "# ProcessMaker Process Templates\nExplore our ready-to-go Process Templates to kick-start your automation across several use cases and industries. Deploy into your Platform instance to spin up new processes and use as-is with all necessary assets included. Or customize and extend as needed to carve out an ideal solution fit for you.");
     ksort($categories);  // Sort categories alphabetically
     foreach ($categories as $category => $templates) {
         $category = str_replace("-", " ", $category);
