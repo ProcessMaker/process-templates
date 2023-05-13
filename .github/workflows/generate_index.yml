@@ -26,7 +26,7 @@ jobs:
         echo "COMMITTER=$COMMITTER" >> $GITHUB_ENV
     
     - name: Run script
-      run: php script.php
+      run: php .github/workflows/scripts/generate_index.php
       if: env.COMMITTER != 'action@github.com'
       
     - name: Commit and push if it changed
