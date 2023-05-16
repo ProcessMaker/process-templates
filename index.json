@@ -9,14 +9,6 @@
             "uuid": "991ec61b-3f54-40bd-af77-94830f1b6d92"
         },
         {
-            "name": "Invoice Approval",
-            "description": "Ensure accurancy and completeness of your invoices by reviewing and approving them before posting to your ERP system.",
-            "hash": "0e84a3e8aa719d42a07a8c3cecaa39db81aca1bc",
-            "mod_time": "2023-05-13 23:57:35",
-            "relative_path": ".\/accounting-and-finance\/invoice-approval.json",
-            "uuid": "992059a7-6a63-48b0-9f02-2bf5ea8c27a7"
-        },
-        {
             "name": "Quote Request",
             "description": "Streamline your procurement process with an automated RFQ process. Easily procure materials or hire services with a simple two-step process for a quotation request, saving time and increasing efficiency.",
             "hash": "76457ab706d25cea23205397add180bfac25e6d1",
