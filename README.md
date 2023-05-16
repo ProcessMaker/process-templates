@@ -8,7 +8,7 @@ Explore our ready-to-go Process Templates to kick-start your automation across s
 
 ## Banking
 - **[Auto Loan Request](/./banking/auto-loan-request.json)**: Automate the process of applying for a car loan for your customers. This process includes Know Your Customer (KYC) and Know Your Business (KYB) entries, as well as the creation of PDF files and email notifications.
-- **[Debit Card Application](/./banking/debit-card-application.json)**: Automate the process of applying for a debit card for your banking customers. This process includes Know Your Customer (KYC) and Know Your Business (KYB) entries, as well as the creation of PDF files and email notifications.
+- **[Debit Card Application UPDATED TEMPLATE](/./banking/debit-card-application.json)**: Automate the process of applying for a debit card for your banking customers. This process includes Know Your Customer (KYC) and Know Your Business (KYB) entries, as well as the creation of PDF files and email notifications. version 2 of this template
 - **[Residential Loan](/./banking/residential-loan.json)**: Automate the process of applying for a loan for a residential property. This process includes Know Your Customer (KYC) and Know Your Business (KYB) entries, as well as the creation of PDF files and email notifications.
 
 ## Customer Success
