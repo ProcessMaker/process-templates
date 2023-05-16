@@ -15,6 +15,14 @@
             "mod_time": "2023-05-13 23:57:35",
             "relative_path": ".\/accounting-and-finance\/quote-request.json",
             "uuid": "99205c7c-bb42-4ff7-9e44-1b68365f66f4"
+        },
+        {
+            "name": "Vendor Onboarding",
+            "description": "Collect all information needed to approve a company as your new vendor.",
+            "hash": "e3164cf5075f08d000306dce8a49821da017e21e",
+            "mod_time": "2023-05-13 23:57:35",
+            "relative_path": ".\/accounting-and-finance\/vendor-onboarding.json",
+            "uuid": "991ec61b-4de8-49ab-bfea-19ebbe472238"
         }
     ],
     "banking": [
