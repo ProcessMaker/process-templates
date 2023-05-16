@@ -2,7 +2,9 @@
 Explore our ready-to-go Process Templates to kick-start your automation across several use cases and industries. Deploy into your Platform instance to spin up new processes and use as-is with all necessary assets included. Or customize and extend as needed to carve out an ideal solution fit for you.
 ## Accounting And Finance
 - **[Expense Approval](/./accounting-and-finance/expense-approval.json)**: Extract the information from any payment slip picture and submit an expense approval request.
+- **[Invoice Approval](/./accounting-and-finance/invoice-approval.json)**: Ensure accurancy and completeness of your invoices by reviewing and approving them before posting to your ERP system.
 - **[Quote Request](/./accounting-and-finance/quote-request.json)**: Streamline your procurement process with an automated RFQ process. Easily procure materials or hire services with a simple two-step process for a quotation request, saving time and increasing efficiency.
+- **[Vendor Onboarding](/./accounting-and-finance/vendor-onboarding.json)**: Collect all information needed to approve a company as your new vendor.
 
 ## Banking
 - **[Auto Loan Request](/./banking/auto-loan-request.json)**: Automate the process of applying for a car loan for your customers. This process includes Know Your Customer (KYC) and Know Your Business (KYB) entries, as well as the creation of PDF files and email notifications.
