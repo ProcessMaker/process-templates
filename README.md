@@ -22,6 +22,7 @@ Explore our ready-to-go Process Templates to kick-start your automation across s
 - **[Leave of Absence](/./human-resources/leave-of-absence.json)**: Automate request for any absences, paid or unpaid from your employees and contractors
 - **[New Employee Offer](/./human-resources/new-employee-offer.json)**: Streamline and automate the process of sending an employent offer, reducing the workload and time required to complete the hiring process.
 - **[New Hire Onboarding](/./human-resources/new-hire-onboarding.json)**: Reduce time and effort in the processes in which new hires are integrated within the company
+- **[NewTemplateAutomationTest](/./human-resources/new-template-automation-test.json)**: TestingAutomation
 
 ## Marketing And Sales
 - **[Review Corporate Communication](/./marketing-and-sales/review-corporate-communication.json)**: Ensure that corporate communications are reviewed and approved by executives before they are sent to stakeholders or media. This process enables effective communication between the company executives and the marketing team.
