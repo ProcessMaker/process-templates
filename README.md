@@ -14,6 +14,7 @@ Explore our ready-to-go Process Templates to kick-start your automation across s
 ## Customer Success
 - **[Contact Us](/./customer-success/contact-us.json)**: Provide a personalized and human-like customer support experience using conversational forms to manage conversations with your clients. This allows for more efficient communication and a positive customer experience.
 - **[Customer Churn Survey](/./customer-success/customer-church-survey.json)**: Gather feedback to reduce customer churn by using this survey to collect crucial information about why customers stop using certain products or services.
+- **[One more random process](/./customer-success/one-more-process.json)**: One more random process
 - **[Project Handover](/./customer-success/project-handover.json)**: Smoothly transition projects from sales to customer success, or from the project manager to the project deliverly team.
 - **[Software Satisfaction Survey](/./customer-success/software-satisfaction-survey.json)**: Measure customer satisfaction and gain insights into customer behavior and preferences by using this survey to evaluate your software.
 
