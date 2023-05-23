@@ -4,23 +4,23 @@
             "name": "Expense Approval",
             "description": "Extract the information from any payment slip picture and submit an expense approval request.",
             "hash": "d423eab575a88e4d63d08d37e058e15fdb50527f",
-            "mod_time": "2023-05-23 15:10:42",
+            "mod_time": "2023-05-23 15:15:28",
             "relative_path": ".\/accounting-and-finance\/expense-approval.json",
             "uuid": "991ec61b-3f54-40bd-af77-94830f1b6d92"
         },
         {
-            "name": "NewTemplateAutomationTest",
-            "description": "TestingAutomation",
-            "hash": "5b3e608b0fb63a5c5d1e32755244cd56603f49b8",
-            "mod_time": "2023-05-23 15:10:42",
+            "name": "Invoice Approval",
+            "description": "Ensure accurancy and completeness of your invoices by reviewing and approving them before posting to your ERP system.",
+            "hash": "0e84a3e8aa719d42a07a8c3cecaa39db81aca1bc",
+            "mod_time": "2023-05-23 15:15:28",
             "relative_path": ".\/accounting-and-finance\/invoice-approval.json",
-            "uuid": "99328b0c-e589-4290-8b19-1136c44f6f27"
+            "uuid": "992059a7-6a63-48b0-9f02-2bf5ea8c27a7"
         },
         {
             "name": "Quote Request",
             "description": "Streamline your procurement process with an automated RFQ process. Easily procure materials or hire services with a simple two-step process for a quotation request, saving time and increasing efficiency.",
             "hash": "76457ab706d25cea23205397add180bfac25e6d1",
-            "mod_time": "2023-05-23 15:10:42",
+            "mod_time": "2023-05-23 15:15:28",
             "relative_path": ".\/accounting-and-finance\/quote-request.json",
             "uuid": "99205c7c-bb42-4ff7-9e44-1b68365f66f4"
         },
@@ -28,7 +28,7 @@
             "name": "Vendor Onboarding",
             "description": "Collect all information needed to approve a company as your new vendor.",
             "hash": "e3164cf5075f08d000306dce8a49821da017e21e",
-            "mod_time": "2023-05-23 15:10:42",
+            "mod_time": "2023-05-23 15:15:28",
             "relative_path": ".\/accounting-and-finance\/vendor-onboarding.json",
             "uuid": "991ec61b-4de8-49ab-bfea-19ebbe472238"
         }
@@ -38,7 +38,7 @@
             "name": "Auto Loan Request",
             "description": "Automate the process of applying for a car loan for your customers. This process includes Know Your Customer (KYC) and Know Your Business (KYB) entries, as well as the creation of PDF files and email notifications.",
             "hash": "85690a4ecbd38d12bc245c7081055a7f23615e56",
-            "mod_time": "2023-05-23 15:10:42",
+            "mod_time": "2023-05-23 15:15:28",
             "relative_path": ".\/banking\/auto-loan-request.json",
             "uuid": "9920680e-943b-44af-bdbe-bc4a95a34a75"
         },
@@ -46,7 +46,7 @@
             "name": "Debit Card Application",
             "description": "Automate the process of applying for a debit card for your banking customers. This process includes Know Your Customer (KYC) and Know Your Business (KYB) entries, as well as the creation of PDF files and email notifications.",
             "hash": "bf8358001b8c7d4c15b5b50929a19ddefb89c2fa",
-            "mod_time": "2023-05-23 15:10:42",
+            "mod_time": "2023-05-23 15:15:28",
             "relative_path": ".\/banking\/debit-card-application.json",
             "uuid": "99206849-f774-4733-833a-e254991d0f80"
         },
@@ -54,7 +54,7 @@
             "name": "Residential Loan",
             "description": "Automate the process of applying for a loan for a residential property. This process includes Know Your Customer (KYC) and Know Your Business (KYB) entries, as well as the creation of PDF files and email notifications.",
             "hash": "cea2d50ec975a5f5e3c257e8400c253a2efb931a",
-            "mod_time": "2023-05-23 15:10:42",
+            "mod_time": "2023-05-23 15:15:28",
             "relative_path": ".\/banking\/residential-loan.json",
             "uuid": "9920688c-32d7-4ff7-adea-5a6c20a7ee6d"
         }
@@ -64,7 +64,7 @@
             "name": "Contact Us",
             "description": "Provide a personalized and human-like customer support experience using conversational forms to manage conversations with your clients. This allows for more efficient communication and a positive customer experience.",
             "hash": "f77c6c81943b96ea6cffd7185c7045a6fd6fc5d8",
-            "mod_time": "2023-05-23 15:10:42",
+            "mod_time": "2023-05-23 15:15:28",
             "relative_path": ".\/customer-success\/contact-us.json",
             "uuid": "99205786-5754-43a9-8950-9fb0dc5d9780"
         },
@@ -72,7 +72,7 @@
             "name": "Customer Churn Survey",
             "description": "Gather feedback to reduce customer churn by using this survey to collect crucial information about why customers stop using certain products or services.",
             "hash": "ccb63b85c4c816149bd41744928bc2267d8bbe3a",
-            "mod_time": "2023-05-23 15:10:42",
+            "mod_time": "2023-05-23 15:15:28",
             "relative_path": ".\/customer-success\/customer-church-survey.json",
             "uuid": "99205915-38f6-43b7-88d6-7e6e1c0c922f"
         },
@@ -80,7 +80,7 @@
             "name": "One more random process",
             "description": "One more random process",
             "hash": "1924e4502ecc38bb381c25a4c48c21185c797ad6",
-            "mod_time": "2023-05-23 15:10:42",
+            "mod_time": "2023-05-23 15:15:28",
             "relative_path": ".\/customer-success\/one-more-process.json",
             "uuid": "9932e36a-3822-499e-8f20-467dd00101a0"
         },
@@ -88,7 +88,7 @@
             "name": "Project Handover",
             "description": "Smoothly transition projects from sales to customer success, or from the project manager to the project deliverly team.",
             "hash": "c54f15c1ca2172e35cee0c804bb8673eaffba339",
-            "mod_time": "2023-05-23 15:10:42",
+            "mod_time": "2023-05-23 15:15:28",
             "relative_path": ".\/customer-success\/project-handover.json",
             "uuid": "99205bd2-eb90-4f4f-930d-24a455c465b5"
         },
@@ -96,7 +96,7 @@
             "name": "Software Satisfaction Survey",
             "description": "Measure customer satisfaction and gain insights into customer behavior and preferences by using this survey to evaluate your software.",
             "hash": "15310c7a72d1f65a96e8bc8e3bb1af6fb08bda70",
-            "mod_time": "2023-05-23 15:10:42",
+            "mod_time": "2023-05-23 15:15:28",
             "relative_path": ".\/customer-success\/software-satisfaction-survey.json",
             "uuid": "99206562-1c7f-4fb8-abcc-c612540d8e5a"
         }
@@ -106,7 +106,7 @@
             "name": "Employee Offboarding",
             "description": "Ensure a smooth transition for departing employees by creating a checklist of all offboarding tasks and by automating the process from beginning to the end.",
             "hash": "75e60c0ae9ce002ca5021de2d983a48a7aa912c2",
-            "mod_time": "2023-05-23 15:10:42",
+            "mod_time": "2023-05-23 15:15:28",
             "relative_path": ".\/human-resources\/employee-offboarding.json",
             "uuid": "992068dd-cd8a-4467-b6cc-b536657cd405"
         },
@@ -114,7 +114,7 @@
             "name": "Leave of Absence",
             "description": "Automate request for any absences, paid or unpaid from your employees and contractors",
             "hash": "94534d3cec6bcd1defee497536a6325fbabc177d",
-            "mod_time": "2023-05-23 15:10:42",
+            "mod_time": "2023-05-23 15:15:28",
             "relative_path": ".\/human-resources\/leave-of-absence.json",
             "uuid": "991ec61b-2d9c-41f5-9b54-1d126f5fb3d2"
         },
@@ -122,7 +122,7 @@
             "name": "New Employee Offer",
             "description": "Streamline and automate the process of sending an employent offer, reducing the workload and time required to complete the hiring process.",
             "hash": "8e2398c026e456a76ce5330d49372a2295537a3d",
-            "mod_time": "2023-05-23 15:10:42",
+            "mod_time": "2023-05-23 15:15:28",
             "relative_path": ".\/human-resources\/new-employee-offer.json",
             "uuid": "99205b16-d2e8-4c80-b57f-43fd63195292"
         },
@@ -130,7 +130,7 @@
             "name": "New Hire Onboarding",
             "description": "Reduce time and effort in the processes in which new hires are integrated within the company",
             "hash": "486056779209a9e7d711f7551597d1f63af08d53",
-            "mod_time": "2023-05-23 15:10:42",
+            "mod_time": "2023-05-23 15:15:28",
             "relative_path": ".\/human-resources\/new-hire-onboarding.json",
             "uuid": "991ec61b-1a35-449a-8ea1-74e3a521ff2f"
         },
@@ -138,7 +138,7 @@
             "name": "NewTemplateAutomationTest",
             "description": "TestingAutomation",
             "hash": "5b3e608b0fb63a5c5d1e32755244cd56603f49b8",
-            "mod_time": "2023-05-23 15:10:42",
+            "mod_time": "2023-05-23 15:15:28",
             "relative_path": ".\/human-resources\/new-template-automation-test.json",
             "uuid": "99328b0c-e589-4290-8b19-1136c44f6f27"
         }
@@ -148,7 +148,7 @@
             "name": "Review Corporate Communication",
             "description": "Ensure that corporate communications are reviewed and approved by executives before they are sent to stakeholders or media. This process enables effective communication between the company executives and the marketing team.",
             "hash": "92436a92795a8959aa9e9e1ab55210d270ea7dce",
-            "mod_time": "2023-05-23 15:10:42",
+            "mod_time": "2023-05-23 15:15:28",
             "relative_path": ".\/marketing-and-sales\/review-corporate-communication.json",
             "uuid": "99205cf6-cc7d-4e93-9bb3-ebc8e1069ca5"
         },
@@ -156,7 +156,7 @@
             "name": "Share Sales Proposal",
             "description": "Streamline the process of sharing a winning proposal with a customer by implementing a two-step process that involves creating the proposal and sending it via email.",
             "hash": "e76db128dca47d2740246817182ee8991d19ca73",
-            "mod_time": "2023-05-23 15:10:42",
+            "mod_time": "2023-05-23 15:15:28",
             "relative_path": ".\/marketing-and-sales\/share-sales-proposal.json",
             "uuid": "99206526-b09d-4c8f-a53b-13e83ec06319"
         }
@@ -166,7 +166,7 @@
             "name": "Committee approval",
             "description": "Effectively engage board members in voting on critical decisions that require committee approval to ensure that decisions are made in consensus.",
             "hash": "c768bb4a478177c4767433b339bd57d905814d29",
-            "mod_time": "2023-05-23 15:10:42",
+            "mod_time": "2023-05-23 15:15:28",
             "relative_path": ".\/operations\/committee-approval.json",
             "uuid": "992067bd-9814-4337-8100-ad261b223d0b"
         },
@@ -174,7 +174,7 @@
             "name": "Incident Report",
             "description": "Enable effective communication with your clients by ensuring that all requests or concerns are captured and completed in a timely manner.",
             "hash": "61edc345255deb0ba45881653511150c706fe3e4",
-            "mod_time": "2023-05-23 15:10:42",
+            "mod_time": "2023-05-23 15:15:28",
             "relative_path": ".\/operations\/incident-report.json",
             "uuid": "992065bc-2c09-47a8-80d2-4ceec137365f"
         },
@@ -182,7 +182,7 @@
             "name": "Site Safety Inspection",
             "description": "Conduct safety inspections at the site and report hazardous behaviors. Send an electronic copy of the completed checklist to the designated safety representative of the company.",
             "hash": "0a42177ea3f4eb3fa65e1df65c28318dcff2fb1f",
-            "mod_time": "2023-05-23 15:10:42",
+            "mod_time": "2023-05-23 15:15:28",
             "relative_path": ".\/operations\/site-safety-inspection.json",
             "uuid": "992064ec-06cb-4c61-9add-c9a6bf8748f2"
         }
