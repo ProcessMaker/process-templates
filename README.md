@@ -2,7 +2,7 @@
 Explore our ready-to-go Process Templates to kick-start your automation across several use cases and industries. Deploy into your Platform instance to spin up new processes and use as-is with all necessary assets included. Or customize and extend as needed to carve out an ideal solution fit for you.
 ## Accounting And Finance
 - **[Expense Approval](/./accounting-and-finance/expense-approval.json)**: Extract the information from any payment slip picture and submit an expense approval request.
-- **[Invoice Approval](/./accounting-and-finance/invoice-approval.json)**: Ensure accurancy and completeness of your invoices by reviewing and approving them before posting to your ERP system.
+- **[Invoice Approval](/./accounting-and-finance/invoice-approval.json)**: Invoice Approval
 - **[Quote Request](/./accounting-and-finance/quote-request.json)**: Streamline your procurement process with an automated RFQ process. Easily procure materials or hire services with a simple two-step process for a quotation request, saving time and increasing efficiency.
 - **[Vendor Onboarding](/./accounting-and-finance/vendor-onboarding.json)**: Collect all information needed to approve a company as your new vendor.
 
@@ -14,6 +14,7 @@ Explore our ready-to-go Process Templates to kick-start your automation across s
 ## Customer Success
 - **[Contact Us](/./customer-success/contact-us.json)**: Provide a personalized and human-like customer support experience using conversational forms to manage conversations with your clients. This allows for more efficient communication and a positive customer experience.
 - **[Customer Churn Survey](/./customer-success/customer-church-survey.json)**: Gather feedback to reduce customer churn by using this survey to collect crucial information about why customers stop using certain products or services.
+- **[One more random process](/./customer-success/one-more-process.json)**: One more random process
 - **[Project Handover](/./customer-success/project-handover.json)**: Smoothly transition projects from sales to customer success, or from the project manager to the project deliverly team.
 - **[Software Satisfaction Survey](/./customer-success/software-satisfaction-survey.json)**: Measure customer satisfaction and gain insights into customer behavior and preferences by using this survey to evaluate your software.
 
@@ -22,6 +23,7 @@ Explore our ready-to-go Process Templates to kick-start your automation across s
 - **[Leave of Absence](/./human-resources/leave-of-absence.json)**: Automate request for any absences, paid or unpaid from your employees and contractors
 - **[New Employee Offer](/./human-resources/new-employee-offer.json)**: Streamline and automate the process of sending an employent offer, reducing the workload and time required to complete the hiring process.
 - **[New Hire Onboarding](/./human-resources/new-hire-onboarding.json)**: Reduce time and effort in the processes in which new hires are integrated within the company
+- **[NewTemplateAutomationTest](/./human-resources/new-template-automation-test.json)**: TestingAutomation
 
 ## Marketing And Sales
 - **[Review Corporate Communication](/./marketing-and-sales/review-corporate-communication.json)**: Ensure that corporate communications are reviewed and approved by executives before they are sent to stakeholders or media. This process enables effective communication between the company executives and the marketing team.
