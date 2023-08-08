@@ -1,10 +1,5 @@
 # ProcessMaker Process Templates
 Explore our ready-to-go Process Templates to kick-start your automation across several use cases and industries. Deploy into your Platform instance to spin up new processes and use as-is with all necessary assets included. Or customize and extend as needed to carve out an ideal solution fit for you.
-## IT
-- **[Business continuity plan V1.0](/./IT/business-continuity-plan.json)**: Business continuity plan V1.0
-- **[Change Request V1.0](/./IT/change-request.json)**: Optimize change management. Automate processes, gain control. Embrace Change Request, accelerate success now!
-- **[Managed service request V1.1](/./IT/managed-service-request.json)**: Managed service request V1.1
-
 ## Accounting And Finance
 - **[Expense Approval](/./accounting-and-finance/expense-approval.json)**: Extract the information from any payment slip picture and submit an expense approval request.
 - **[Invoice Approval V1.1](/./accounting-and-finance/invoice-approval.json)**: Unleash the power of flawless invoicing with our game-changing process template!
