@@ -61,6 +61,11 @@ Our innovative template simplifies and accelerates the entire process, reducing 
 Our innovative template provides a streamlined onboarding experience that ensures a smooth transition for every new employee. From customizable checklists to interactive training materials, our solution saves time and enhances efficiency. Empower your team and optimize productivity from day one.
 - **[Performance Review V1.0](/./human-resources/performance-review.json)**: Performance Review V1.0
 
+## It
+- **[Business continuity plan V1.0](/./it/business-continuity-plan.json)**: Business continuity plan V1.0
+- **[Change Request V1.0](/./it/change-request.json)**: Optimize change management. Automate processes, gain control. Embrace Change Request, accelerate success now!
+- **[Managed service request V1.1](/./it/managed-service-request.json)**: Managed service request V1.1
+
 ## Marketing And Sales
 - **[Net promoter score V1.0](/./marketing-and-sales/net-promoter-score.json)**: NPS is an important metric for measuring customer loyalty and satisfaction, and it can help businesses to identify areas for improvement.
 - **[Review Corporate Communication](/./marketing-and-sales/review-corporate-communication.json)**: Ensure that corporate communications are reviewed and approved by executives before they are sent to stakeholders or media. This process enables effective communication between the company executives and the marketing team.
