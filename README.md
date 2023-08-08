@@ -23,10 +23,9 @@ Our innovative template simplifies the process of requesting and obtaining quota
 - **[Contact Us](/./customer-success/contact-us.json)**: Transform your customer support experience with our groundbreaking process template! Say goodbye to robotic interactions and embrace a personalized, human-like approach that leaves a lasting impression.
 
 Our innovative template leverages conversational forms to seamlessly manage conversations with your clients, enabling efficient and engaging communication. From capturing inquiries to resolving issues, our solution ensures a positive customer experience every step of the way.
-- **[Customer Churn Survey](/./customer-success/customer-churn-survey.json)**: Introducing our game-changing feedback template, meticulously crafted to tackle customer churn head-on! Unlock the potential of customer insights and seize control over why customers abandon specific products or services.
+- **[Customer Churn Survey](/./customer-success/customer-church-survey.json)**: Introducing our game-changing feedback template, meticulously crafted to tackle customer churn head-on! Unlock the potential of customer insights and seize control over why customers abandon specific products or services.
 
 Our revolutionary template empowers you to gather crucial information, pinpoint pain points, and enhance user experience. Say farewell to lost customers and harness the power of retention. Adapt, engage, and propel your business to new heights by utilizing this cutting-edge solution.
-- **[Customer Churn Survey](/./customer-success/customer-church-survey.json)**: Gather feedback to reduce customer churn by using this survey to collect crucial information about why customers stop using certain products or services.
 - **[Project Handover](/./customer-success/project-handover.json)**: Project Handover V1.1
 - **[Software Satisfaction Survey](/./customer-success/software-satisfaction-survey.json)**: Unlock the key to customer satisfaction with our revolutionary process template! Say goodbye to guesswork and embrace a data-driven approach that allows you to measure and understand your customers better.
 
