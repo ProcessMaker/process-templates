@@ -11,7 +11,7 @@ Our innovative template empowers you to review and approve invoices before seaml
 
 Our innovative template simplifies the process of requesting and obtaining quotations, ensuring a seamless and efficient two-step process. From procuring materials to hiring services, our solution saves time, increases efficiency, and enhances productivity.
 - **[Simple Purchase Order V1.1](/./accounting-and-finance/purchase-order.json)**: Simple Purchase Order V1.1
-- **[Vendor Onboarding V2.0](/./accounting-and-finance/vendor-onboarding.json)**: Update on the vendor onboarding process which includes collections
+- **[Vendor Onboarding](/./accounting-and-finance/vendor-onboarding.json)**: Update on the vendor onboarding process which includes collections
 
 ## Banking
 - **[Auto Loan Request](/./banking/auto-loan-request.json)**: Automate the process of applying for a car loan for your customers. This process includes Know Your Customer (KYC) and Know Your Business (KYB) entries, as well as the creation of PDF files and email notifications.
