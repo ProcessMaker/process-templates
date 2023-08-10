@@ -7,16 +7,16 @@ Explore our ready-to-go Process Templates to kick-start your automation across s
 Say goodbye to inaccuracies and incomplete invoices, and embrace a streamlined workflow that ensures precision at every step.
 
 Our innovative template empowers you to review and approve invoices before seamlessly posting them to your ERP system.
-- **[Purchase Order](/./accounting-and-finance/purchase-order.json)**: Simple Purchase Order V1.1
+- **[Purchase Order](/./accounting-and-finance/purchase-order.json)**: Unlock streamlined procurement: Simplify, generate orders, and enhance operations with our cutting-edge Purchase Order Template!
 - **[Quote Request](/./accounting-and-finance/quote-request.json)**: Revolutionize your procurement process with our cutting-edge process template! Say goodbye to manual RFQ procedures and embrace an automated approach that streamlines your procurement operations.
 
 Our innovative template simplifies the process of requesting and obtaining quotations, ensuring a seamless and efficient two-step process. From procuring materials to hiring services, our solution saves time, increases efficiency, and enhances productivity.
-- **[Vendor Onboarding](/./accounting-and-finance/vendor-onboarding.json)**: Update on the vendor onboarding process which includes collections
+- **[Vendor Onboarding](/./accounting-and-finance/vendor-onboarding.json)**: Ensure that all necessary documentation is obtained and verified before approving a new vendor.
 
 ## Banking
 - **[Auto Loan Request](/./banking/auto-loan-request.json)**: Automate the process of applying for a car loan for your customers. This process includes Know Your Customer (KYC) and Know Your Business (KYB) entries, as well as the creation of PDF files and email notifications.
-- **[Debit Card Application](/./banking/debit-card-application.json)**: Debit Card Application Jul 2023
-- **[Residential Loan](/./banking/residential-loan.json)**: Residential Loan Jul 2023
+- **[Debit Card Application](/./banking/debit-card-application.json)**: Automate the process of applying for a debit card for your banking customers. This process includes Know Your Customer (KYC) and Know Your Business (KYB) entries, as well as the creation of PDF files and email notifications.
+- **[Residential Loan](/./banking/residential-loan.json)**: Automate the process of applying for a loan for a residential property. This process includes Know Your Customer (KYC) and Know Your Business (KYB) entries, as well as the creation of PDF files and email notifications.
 - **[Trust Account Disbursement](/./banking/trust-account-disbursement.json)**: Optimize trust account disbursement process: streamline workflows, enhance accuracy, and ensure compliance for efficient financial operations.
 
 ## Customer Success
@@ -26,7 +26,7 @@ Our innovative template leverages conversational forms to seamlessly manage conv
 - **[Customer Churn Survey](/./customer-success/customer-church-survey.json)**: Introducing our game-changing feedback template, meticulously crafted to tackle customer churn head-on! Unlock the potential of customer insights and seize control over why customers abandon specific products or services.
 
 Our revolutionary template empowers you to gather crucial information, pinpoint pain points, and enhance user experience. Say farewell to lost customers and harness the power of retention. Adapt, engage, and propel your business to new heights by utilizing this cutting-edge solution.
-- **[Project Handover](/./customer-success/project-handover.json)**: Project Handover V1.1
+- **[Project Handover](/./customer-success/project-handover.json)**: Ensure seamless project transitions from sales to customer success or project manager to delivery team
 - **[Software Satisfaction Survey](/./customer-success/software-satisfaction-survey.json)**: Unlock the key to customer satisfaction with our revolutionary process template! Say goodbye to guesswork and embrace a data-driven approach that allows you to measure and understand your customers better.
 
 Our innovative template enables you to evaluate your software, product, or service through surveys, capturing valuable insights into customer behavior and preferences. From measuring satisfaction to identifying improvement areas, our solution empowers you to enhance your offerings and exceed customer expectations.
@@ -45,7 +45,7 @@ An academic or administrative department member starts a request. The finance ma
 - **[Tuition Waiver Request](/./higher-education/tuition-waiver.json)**: Streamline higher education funding with "Tuition Waiver Request" - the ultimate solution for efficiency seekers!
 
 ## Human Resources
-- **[COVID-19 Liability Waiver](/./human-resources/covid-19-liability-waiver.json)**: COVID-19 Liability Waiver V1.0
+- **[COVID-19 Liability Waiver](/./human-resources/covid-19-liability-waiver.json)**: The individual agrees to release the organization from liability for COVID-19-related illness or injury.
 - **[Employee Offboarding](/./human-resources/employee-offboarding.json)**: Revolutionize your offboarding process with our game-changing process template! Say goodbye to chaotic transitions and embrace a streamlined approach that ensures a smooth exit for departing employees.
 
 Our innovative template creates a comprehensive checklist of all offboarding tasks and automates the entire process from beginning to end. From revoking access to conducting exit interviews, our solution saves time, minimizes errors, and enhances efficiency.
@@ -58,12 +58,12 @@ Our innovative template simplifies and accelerates the entire process, reducing 
  
 
 Our innovative template provides a streamlined onboarding experience that ensures a smooth transition for every new employee. From customizable checklists to interactive training materials, our solution saves time and enhances efficiency. Empower your team and optimize productivity from day one.
-- **[Performance Review](/./human-resources/performance-review.json)**: Performance Review V1.0
+- **[Performance Review](/./human-resources/performance-review.json)**: The manager provides feedback on the employee's performance in the previous year.
 
 ## It
-- **[Business continuity plan](/./it/business-continuity-plan.json)**: Business continuity plan V1.0
+- **[Business continuity plan](/./it/business-continuity-plan.json)**: The business continuity team develops a plan to mitigate the risks identified.
 - **[Change Request](/./it/change-request.json)**: Optimize change management. Automate processes, gain control. Embrace Change Request, accelerate success now!
-- **[Managed service request](/./it/managed-service-request.json)**: Managed service request V1.1
+- **[Managed service request](/./it/managed-service-request.json)**: Efficiently centralize service requests for seamless management and prompt resolution with our Managed Service Request Template.
 
 ## Marketing And Sales
 - **[Net promoter score](/./marketing-and-sales/net-promoter-score.json)**: NPS is an important metric for measuring customer loyalty and satisfaction, and it can help businesses to identify areas for improvement.
@@ -78,9 +78,9 @@ Our innovative two-step approach simplifies the process of creating winning prop
 Our innovative template enables seamless participation from board members in voting on critical decisions requiring committee approval. From comprehensive decision tracking to real-time collaboration, our solution ensures transparency and facilitates unified decision-making.
 - **[Contract review](/./operations/contract-review.json)**: A contract review process is important to ensure that contracts are fair, enforceable, and protect the interests of all parties involved.
 - **[Incident Report](/./operations/incident-report.json)**: Revolutionize your client communication with our innovative process template! Say goodbye to missed incidents and unresolved concerns, and embrace a streamlined approach that ensures effective and timely completion.
-- **[Safety Perception Survey](/./operations/safety-perception-survey.json)**: Safety Perception Survey V1.0
+- **[Safety Perception Survey](/./operations/safety-perception-survey.json)**: Safety Perception Survey
 - **[Safety orientation training feedback](/./operations/safety-orientation-training-feedback.json)**: Transform safety training with our cutting-edge process, empowering seamless feedback collection and optimizing workplace procedures.
 - **[Site Safety Inspection](/./operations/site-safety-inspection.json)**: Transform your safety inspection process with our groundbreaking process template! Say goodbye to manual paperwork and embrace a streamlined approach that ensures efficient inspections and seamless reporting.
 
 Our innovative template empowers you to conduct on-site safety inspections and report hazardous behaviors with ease. From completing digital checklists to automatically sending reports to designated safety representatives, our solution saves time, improves accuracy, and enhances safety protocols.
-- **[Training survey](/./operations/training-survey.json)**: Training survey V1.0
+- **[Training survey](/./operations/training-survey.json)**: A training survey request entails initiating a process to gather feedback from participants regarding their training experiences. This valuable input aids in refining training content, methods, and delivery, ultimately enhancing the overall effectiveness of training programs.
