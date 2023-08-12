@@ -14,7 +14,13 @@ function update_readme($categories) {
         fwrite($readme, "\n## $category\n");
         usort($templates, function($a, $b) { return strcmp($a['name'], $b['name']); });  // Sort templates alphabetically within each category
         foreach ($templates as $template) {
-            fwrite($readme, "- **[{$template['name']}](/{$template['relative_path']})**: {$template['description']}\n");
+            $string = "- **[{$template['name']}](/{$template['relative_path']})**: {$template['description']}";
+            if ($template['version']) {
+                $string .= " (Version {$template['version']})\n";
+            } else {
+                $string .= "\n";
+            }
+            fwrite($readme, $string);
         }
     }
     fclose($readme);
@@ -31,9 +37,15 @@ function main() {
         if ($file->getFilename() == "index.json") continue;
 
         $filepath = $file->getPathname();
-        $mod_time = date("Y-m-d H:i:s", filemtime($filepath));
         $data = json_decode(file_get_contents($filepath), true);
         $category = str_replace("./", "", $file->getPath());
+        $version = null;
+        if (isset($data["export"][$data["root"]]["attributes"])) {
+            if (array_key_exists("version", $data["export"][$data["root"]]["attributes"])) {
+                $version = $data["export"][$data["root"]]["attributes"]["version"];
+            }
+        }
+        $mod_time = $data["export"][$data["root"]]["attributes"]["updated_at"];
 
         $template_info = [
             "name" => $data["name"],
@@ -42,6 +54,7 @@ function main() {
             "mod_time" => $mod_time,
             "relative_path" => $filepath,
             "uuid" => $data["root"],
+            "version" => $version,
         ];
 
         if (!isset($categories[$category])) {
