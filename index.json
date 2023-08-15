@@ -349,7 +349,7 @@
         },
         {
             "name": "Safety Perception Survey",
-            "description": "Safety Perception Survey",
+            "description": "The safety perception survey request involves the initiation of a comprehensive assessment aimed at gauging individuals' perspectives on safety within a given environment. This process enables organizations to gather valuable insights, identify potential hazards, and make informed improvements to enhance safety measures.",
             "hash": "954b3cb791103e9ddfe77ac43d51d3224258cda8",
             "mod_time": "2023-08-08 15:55:38",
             "relative_path": ".\/operations\/safety-perception-survey.json",
