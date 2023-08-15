@@ -7,7 +7,7 @@
             "mod_time": "2023-06-06 14:18:45",
             "relative_path": ".\/accounting-and-finance\/expense-approval.json",
             "uuid": "991ec61b-3f54-40bd-af77-94830f1b6d92",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Invoice Approval ",
@@ -16,7 +16,7 @@
             "mod_time": "2023-08-08 15:22:05",
             "relative_path": ".\/accounting-and-finance\/invoice-approval.json",
             "uuid": "992059a7-6a63-48b0-9f02-2bf5ea8c27a7",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Purchase Order",
@@ -25,7 +25,7 @@
             "mod_time": "2023-08-08 15:49:32",
             "relative_path": ".\/accounting-and-finance\/purchase-order.json",
             "uuid": "9974d230-b80d-42d2-9374-acf7ff1682bd",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Quote Request",
@@ -34,7 +34,7 @@
             "mod_time": "2023-08-08 15:31:28",
             "relative_path": ".\/accounting-and-finance\/quote-request.json",
             "uuid": "99205c7c-bb42-4ff7-9e44-1b68365f66f4",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Vendor Onboarding",
@@ -43,7 +43,7 @@
             "mod_time": "2023-08-08 15:23:39",
             "relative_path": ".\/accounting-and-finance\/vendor-onboarding.json",
             "uuid": "991ec61b-4de8-49ab-bfea-19ebbe472238",
-            "version": null
+            "version": "1.0.0"
         }
     ],
     "banking": [
@@ -54,7 +54,7 @@
             "mod_time": "2023-05-09 15:03:57",
             "relative_path": ".\/banking\/auto-loan-request.json",
             "uuid": "9920680e-943b-44af-bdbe-bc4a95a34a75",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Debit Card Application",
@@ -63,7 +63,7 @@
             "mod_time": "2023-08-08 15:27:16",
             "relative_path": ".\/banking\/debit-card-application.json",
             "uuid": "99206849-f774-4733-833a-e254991d0f80",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Residential Loan",
@@ -72,7 +72,7 @@
             "mod_time": "2023-08-08 15:28:12",
             "relative_path": ".\/banking\/residential-loan.json",
             "uuid": "9920688c-32d7-4ff7-adea-5a6c20a7ee6d",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Trust Account Disbursement",
@@ -81,7 +81,7 @@
             "mod_time": "2023-08-08 15:39:05",
             "relative_path": ".\/banking\/trust-account-disbursement.json",
             "uuid": "995b21d6-c556-49f6-848e-a36070f5d6e6",
-            "version": null
+            "version": "1.0.0"
         }
     ],
     "customer-success": [
@@ -92,7 +92,7 @@
             "mod_time": "2023-08-08 15:29:24",
             "relative_path": ".\/customer-success\/contact-us.json",
             "uuid": "99205786-5754-43a9-8950-9fb0dc5d9780",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Customer Churn Survey",
@@ -101,7 +101,7 @@
             "mod_time": "2023-08-08 15:35:34",
             "relative_path": ".\/customer-success\/customer-church-survey.json",
             "uuid": "99205915-38f6-43b7-88d6-7e6e1c0c922f",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Project Handover",
@@ -110,7 +110,7 @@
             "mod_time": "2023-08-08 15:32:57",
             "relative_path": ".\/customer-success\/project-handover.json",
             "uuid": "99205bd2-eb90-4f4f-930d-24a455c465b5",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Software Satisfaction Survey",
@@ -119,7 +119,7 @@
             "mod_time": "2023-08-08 15:34:59",
             "relative_path": ".\/customer-success\/software-satisfaction-survey.json",
             "uuid": "99206562-1c7f-4fb8-abcc-c612540d8e5a",
-            "version": null
+            "version": "1.0.0"
         }
     ],
     "higher-education": [
@@ -130,7 +130,7 @@
             "mod_time": "2023-08-10 21:01:34",
             "relative_path": ".\/higher-education\/admissions-application.json",
             "uuid": "999f1577-f6a2-4926-8755-d80efeb97c20",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Change of Grade",
@@ -139,7 +139,7 @@
             "mod_time": "2023-08-08 15:42:02",
             "relative_path": ".\/higher-education\/change-of-grade.json",
             "uuid": "995b2435-4f93-422e-90ab-01a358582748",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Change of Major",
@@ -148,7 +148,7 @@
             "mod_time": "2023-08-08 15:43:22",
             "relative_path": ".\/higher-education\/change-of-major.json",
             "uuid": "995b2510-7b8f-49a1-9a12-77cb45d471ab",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Course Approval",
@@ -157,7 +157,7 @@
             "mod_time": "2023-08-08 15:39:51",
             "relative_path": ".\/higher-education\/course-approval.json",
             "uuid": "995b22d1-05b7-454c-ab86-bbb0b2119269",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Create Student Hold",
@@ -166,7 +166,7 @@
             "mod_time": "2023-08-08 15:48:16",
             "relative_path": ".\/higher-education\/create-student-hold.json",
             "uuid": "995b3178-b799-4948-9b6c-1cc52dfdaba5",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Housing Request",
@@ -175,7 +175,7 @@
             "mod_time": "2023-08-08 15:50:39",
             "relative_path": ".\/higher-education\/housing-request.json",
             "uuid": "999f162c-eba8-4412-8253-23ea70f75903",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Primary or secondary major declarations",
@@ -184,7 +184,7 @@
             "mod_time": "2023-08-08 15:44:22",
             "relative_path": ".\/higher-education\/primary-or-secondary-major-declarations.json",
             "uuid": "995b2fa9-046f-4f1a-9cde-962f4f0bfa64",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Student charge creation",
@@ -193,7 +193,7 @@
             "mod_time": "2023-08-08 15:44:56",
             "relative_path": ".\/higher-education\/student-charge-creation.json",
             "uuid": "995b32ac-5d7f-49c8-b22f-a8a4e2504ca0",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Tuition Waiver Request",
@@ -202,7 +202,7 @@
             "mod_time": "2023-08-08 15:51:15",
             "relative_path": ".\/higher-education\/tuition-waiver.json",
             "uuid": "999f176c-fd1e-41d3-b8cc-05f86f7309b3",
-            "version": null
+            "version": "1.0.0"
         }
     ],
     "human-resources": [
@@ -213,7 +213,7 @@
             "mod_time": "2023-08-08 15:53:25",
             "relative_path": ".\/human-resources\/covid-19-liability-waiver.json",
             "uuid": "998eef5e-6be2-4b7a-9361-3d70981c286f",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Employee Offboarding",
@@ -222,7 +222,7 @@
             "mod_time": "2023-08-08 15:30:35",
             "relative_path": ".\/human-resources\/employee-offboarding.json",
             "uuid": "992068dd-cd8a-4467-b6cc-b536657cd405",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Leave of Absence",
@@ -231,7 +231,7 @@
             "mod_time": "2023-08-08 15:16:42",
             "relative_path": ".\/human-resources\/leave-of-absence.json",
             "uuid": "991ec61b-2d9c-41f5-9b54-1d126f5fb3d2",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "New Employee Offer",
@@ -240,7 +240,7 @@
             "mod_time": "2023-08-08 15:24:34",
             "relative_path": ".\/human-resources\/new-employee-offer.json",
             "uuid": "99205b16-d2e8-4c80-b57f-43fd63195292",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "New hire onboarding",
@@ -249,7 +249,7 @@
             "mod_time": "2023-08-08 15:18:03",
             "relative_path": ".\/human-resources\/new-hire-onboarding.json",
             "uuid": "991ec61b-1a35-449a-8ea1-74e3a521ff2f",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Performance Review",
@@ -258,7 +258,7 @@
             "mod_time": "2023-08-08 15:53:45",
             "relative_path": ".\/human-resources\/performance-review.json",
             "uuid": "9987175f-b5c9-4a8a-a9b2-32bdca5bcdcb",
-            "version": null
+            "version": "1.0.0"
         }
     ],
     "it": [
@@ -269,7 +269,7 @@
             "mod_time": "2023-08-04 23:08:23",
             "relative_path": ".\/it\/business-continuity-plan.json",
             "uuid": "998ef4dd-86a4-40d8-8441-ec29d6c1c239",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Change Request",
@@ -278,7 +278,7 @@
             "mod_time": "2023-08-04 23:13:40",
             "relative_path": ".\/it\/change-request.json",
             "uuid": "999f14f6-1a97-4873-9a6b-0b01a7ff1b20",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Managed service request",
@@ -287,7 +287,7 @@
             "mod_time": "2023-08-08 15:48:49",
             "relative_path": ".\/it\/managed-service-request.json",
             "uuid": "9978c9c3-091a-4d0b-8a6b-de4984dfe60e",
-            "version": null
+            "version": "1.0.0"
         }
     ],
     "marketing-and-sales": [
@@ -298,7 +298,7 @@
             "mod_time": "2023-08-08 15:55:16",
             "relative_path": ".\/marketing-and-sales\/net-promoter-score.json",
             "uuid": "999f11af-7b66-4e5e-b68c-702dde3595bb",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Review Corporate Communication",
@@ -307,7 +307,7 @@
             "mod_time": "2023-05-09 14:32:56",
             "relative_path": ".\/marketing-and-sales\/review-corporate-communication.json",
             "uuid": "99205cf6-cc7d-4e93-9bb3-ebc8e1069ca5",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Share Sales Proposal",
@@ -316,7 +316,7 @@
             "mod_time": "2023-08-08 15:19:49",
             "relative_path": ".\/marketing-and-sales\/share-sales-proposal.json",
             "uuid": "99206526-b09d-4c8f-a53b-13e83ec06319",
-            "version": null
+            "version": "1.0.0"
         }
     ],
     "operations": [
@@ -327,7 +327,7 @@
             "mod_time": "2023-08-08 15:26:01",
             "relative_path": ".\/operations\/committee-approval.json",
             "uuid": "992067bd-9814-4337-8100-ad261b223d0b",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Contract review",
@@ -336,7 +336,7 @@
             "mod_time": "2023-08-08 15:54:53",
             "relative_path": ".\/operations\/contract-review.json",
             "uuid": "999f12ca-6a33-4076-8938-428a0eec2bf5",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Incident Report",
@@ -345,7 +345,7 @@
             "mod_time": "2023-08-08 15:22:44",
             "relative_path": ".\/operations\/incident-report.json",
             "uuid": "992065bc-2c09-47a8-80d2-4ceec137365f",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Safety Perception Survey",
@@ -354,7 +354,7 @@
             "mod_time": "2023-08-08 15:55:38",
             "relative_path": ".\/operations\/safety-perception-survey.json",
             "uuid": "99cbf5e1-ece0-4086-93e8-5c8159047a95",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Safety orientation training feedback",
@@ -363,7 +363,7 @@
             "mod_time": "2023-08-08 15:52:57",
             "relative_path": ".\/operations\/safety-orientation-training-feedback.json",
             "uuid": "999f13fb-8182-47e1-8e87-db992354c15a",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Site Safety Inspection",
@@ -372,7 +372,7 @@
             "mod_time": "2023-08-08 15:32:05",
             "relative_path": ".\/operations\/site-safety-inspection.json",
             "uuid": "992064ec-06cb-4c61-9add-c9a6bf8748f2",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Training survey",
@@ -381,7 +381,7 @@
             "mod_time": "2023-08-08 16:02:20",
             "relative_path": ".\/operations\/training-survey.json",
             "uuid": "99cbf65f-d4c0-4372-b7ee-c4d8760758ae",
-            "version": null
+            "version": "1.0.0"
         }
     ]
 }
