@@ -275,7 +275,7 @@
             "name": "Change Request",
             "description": "Optimize change management. Automate processes, gain control. Embrace Change Request, accelerate success now!",
             "hash": "2234776a10e275249b72d7eb3afc05060b92a482",
-            "mod_time": "2023-08-04 23:13:40",
+            "mod_time": "2023-08-24 16:41:31",
             "relative_path": ".\/it\/change-request.json",
             "uuid": "999f14f6-1a97-4873-9a6b-0b01a7ff1b20",
             "version": "1.0.0"
@@ -295,7 +295,7 @@
             "name": "Net promoter score",
             "description": "NPS is an important metric for measuring customer loyalty and satisfaction, and it can help businesses to identify areas for improvement.",
             "hash": "c344bbe3a9399c5d84971e1b335214916d31a0c5",
-            "mod_time": "2023-08-08 15:55:16",
+            "mod_time": "2023-08-24 15:47:51",
             "relative_path": ".\/marketing-and-sales\/net-promoter-score.json",
             "uuid": "999f11af-7b66-4e5e-b68c-702dde3595bb",
             "version": "1.0.0"
@@ -333,7 +333,7 @@
             "name": "Contract review",
             "description": "A contract review process is important to ensure that contracts are fair, enforceable, and protect the interests of all parties involved.",
             "hash": "3dafa550c131fb2d7b297cf51623256d88da3341",
-            "mod_time": "2023-08-08 15:54:53",
+            "mod_time": "2023-08-24 15:47:53",
             "relative_path": ".\/operations\/contract-review.json",
             "uuid": "999f12ca-6a33-4076-8938-428a0eec2bf5",
             "version": "1.0.0"
