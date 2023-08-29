@@ -293,7 +293,7 @@
     "marketing-and-sales": [
         {
             "name": "Net promoter score",
-            "description": "NPS",
+            "description": "NPS is an important metric for measuring customer loyalty and satisfaction, and it can help businesses to identify areas for improvement.",
             "hash": "e569747807e07ca8490bcefa6c10a1e82b7de34b",
             "mod_time": "2023-08-25 21:04:56",
             "relative_path": ".\/marketing-and-sales\/net-promoter-score.json",
@@ -331,7 +331,7 @@
         },
         {
             "name": "Contract review",
-            "description": "Contract review",
+            "description": "A contract review process is important to ensure that contracts are fair, enforceable, and protect the interests of all parties involved.",
             "hash": "860e3525e0ee683853d9647569db5d10b7796812",
             "mod_time": "2023-08-24 22:55:10",
             "relative_path": ".\/operations\/contract-review.json",
