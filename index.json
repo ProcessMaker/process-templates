@@ -7,7 +7,7 @@
             "mod_time": "2023-09-13 19:34:44",
             "relative_path": ".\/accounting-and-finance\/budget-approval.json",
             "uuid": "9a164f8f-c4dd-47e5-9ec1-aed7ea44e36e",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Expense Approval",
@@ -34,7 +34,7 @@
             "mod_time": "2023-09-13 19:31:20",
             "relative_path": ".\/accounting-and-finance\/mileage-reimbursement-approval.json",
             "uuid": "9a15f643-46d2-41ca-9aad-10158ef840a2",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Payment request form",
@@ -43,7 +43,7 @@
             "mod_time": "2023-11-14 21:35:34",
             "relative_path": ".\/accounting-and-finance\/payment-request.json",
             "uuid": "9a9d25d1-1b5a-4567-be17-047d3ed2e462",
-            "version": "1.0"
+            "version": "1.0.0"
         },
         {
             "name": "Purchase Order",
@@ -99,7 +99,7 @@
             "mod_time": "2023-11-14 21:38:27",
             "relative_path": ".\/banking\/financial-hardship-application.json",
             "uuid": "9a9d28fd-238c-4e29-aaf1-e1d41759e0fa",
-            "version": "1.0"
+            "version": "1.0.0"
         },
         {
             "name": "KYC Approval",
@@ -108,7 +108,7 @@
             "mod_time": "2023-09-13 19:30:41",
             "relative_path": ".\/banking\/kyc-approval.json",
             "uuid": "9a15ee4f-fc97-42ed-a9b5-cd4ccf8f9a88",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Residential Loan",
@@ -202,7 +202,7 @@
             "mod_time": "2023-09-22 16:13:47",
             "relative_path": ".\/higher-education\/co-curricular-transcript.json",
             "uuid": "9a3216de-6e0b-4be2-ae94-89ffd95f70b9",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Course Approval",
@@ -274,7 +274,7 @@
             "mod_time": "2023-09-13 19:41:24",
             "relative_path": ".\/higher-education\/workshop-or-event-registration.json",
             "uuid": "9a1c3415-261a-4cbc-ac17-007223434a06",
-            "version": null
+            "version": "1.0.0"
         }
     ],
     "human-resources": [
@@ -303,7 +303,7 @@
             "mod_time": "2023-11-14 21:45:09",
             "relative_path": ".\/human-resources\/employee-separation-process.json",
             "uuid": "9a9d2b88-b365-4f88-b32d-26a3d263d307",
-            "version": "1.0"
+            "version": "1.0.0"
         },
         {
             "name": "Leave of Absence",
@@ -368,7 +368,7 @@
             "mod_time": "2023-11-14 21:41:24",
             "relative_path": ".\/it\/infosec-risk-assessment.json",
             "uuid": "9a9d2a31-a8a4-4739-a9d8-66f95d76a37d",
-            "version": "1.0"
+            "version": "1.0.0"
         },
         {
             "name": "Managed service request",
@@ -386,7 +386,7 @@
             "mod_time": "2023-09-27 20:34:55",
             "relative_path": ".\/it\/project-kickoff-checklist.json",
             "uuid": "9a3c832d-ea37-4c2f-9622-da28654b0e88",
-            "version": null
+            "version": "1.0.0"
         }
     ],
     "marketing-and-sales": [
@@ -397,7 +397,7 @@
             "mod_time": "2023-09-13 19:38:24",
             "relative_path": ".\/marketing-and-sales\/design-approval.json",
             "uuid": "9a1bffa0-5037-4655-8559-d8e60ef81422",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Marketing Request",
@@ -406,7 +406,7 @@
             "mod_time": "2023-09-13 19:44:55",
             "relative_path": ".\/marketing-and-sales\/marketing-request.json",
             "uuid": "9a1c5c40-959d-4908-b3fc-3ef528c34c21",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Net promoter score",
@@ -453,7 +453,7 @@
             "mod_time": "2023-09-13 19:40:20",
             "relative_path": ".\/operations\/covid-19-return-to-work.json",
             "uuid": "9a1c3346-016e-4c34-a9e1-2aea1c214481",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "CSAT survey",
@@ -462,7 +462,7 @@
             "mod_time": "2023-11-14 21:46:05",
             "relative_path": ".\/operations\/csat-survey.json",
             "uuid": "9a9d2bde-7a29-4d96-8716-a9355e3e60db",
-            "version": "1.0"
+            "version": "1.0.0"
         },
         {
             "name": "Cash Voucher Request",
@@ -471,7 +471,7 @@
             "mod_time": "2023-11-14 21:36:02",
             "relative_path": ".\/operations\/cash-voucher-request.json",
             "uuid": "9a9d2783-cf8f-42be-9dad-f5c785d93830",
-            "version": "1.0"
+            "version": "1.0.0"
         },
         {
             "name": "Committee approval",
@@ -498,7 +498,7 @@
             "mod_time": "2023-09-13 19:35:51",
             "relative_path": ".\/operations\/document-approval.json",
             "uuid": "9a1be53a-2685-47be-bb88-bf3d69cc7657",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Electronic Communications Consent",
@@ -507,7 +507,7 @@
             "mod_time": "2023-09-13 19:46:10",
             "relative_path": ".\/operations\/electronic-communications-consent.json",
             "uuid": "9a1c6bfc-73f5-4463-965e-07fcddf92dc5",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Health Requirements",
@@ -516,7 +516,7 @@
             "mod_time": "2023-09-13 19:45:34",
             "relative_path": ".\/operations\/health-requirements.json",
             "uuid": "9a1c6b99-0434-45f1-b544-28ec6751603f",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Incident Report",
@@ -534,7 +534,7 @@
             "mod_time": "2023-11-14 21:43:59",
             "relative_path": ".\/operations\/long-service-leave-application.json",
             "uuid": "9a9d2b1e-4769-4b86-9daf-06f532b28890",
-            "version": "1.0"
+            "version": "1.0.0"
         },
         {
             "name": "Overtime Claim Approval",
@@ -543,7 +543,7 @@
             "mod_time": "2023-09-13 19:39:34",
             "relative_path": ".\/operations\/overtime-claim-approval.json",
             "uuid": "9a1c0536-edeb-46ab-89bf-4136800c731f",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Quality Control",
@@ -552,7 +552,7 @@
             "mod_time": "2023-09-13 18:44:06",
             "relative_path": ".\/operations\/quality-control.json",
             "uuid": "9a164592-6f64-4fea-bbd6-fa7bc89eb512",
-            "version": "1.0"
+            "version": "1.0.0"
         },
         {
             "name": "Risk Assessment",
@@ -561,7 +561,7 @@
             "mod_time": "2023-09-14 19:34:31",
             "relative_path": ".\/operations\/risk-assessment.json",
             "uuid": "9a1646fb-3acd-43ec-93a5-fe5c33355ead",
-            "version": "1.0"
+            "version": "1.0.0"
         },
         {
             "name": "Safety Perception Survey",
@@ -588,7 +588,7 @@
             "mod_time": "2023-09-13 19:35:24",
             "relative_path": ".\/operations\/shift-hours-timesheet.json",
             "uuid": "9a16519f-8cde-4ed7-a926-3adbd7858282",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Site Safety Inspection",
@@ -615,7 +615,7 @@
             "mod_time": "2023-09-13 19:34:13",
             "relative_path": ".\/operations\/visitor-approval-gate.json",
             "uuid": "9a164990-d53e-4648-ac20-cadd80982ec8",
-            "version": null
+            "version": "1.0.0"
         },
         {
             "name": "Work Order Request",
@@ -624,7 +624,7 @@
             "mod_time": "2023-09-13 19:46:44",
             "relative_path": ".\/operations\/work-order-request.json",
             "uuid": "9a1c6ced-af55-4e59-aad8-033d48420e59",
-            "version": null
+            "version": "1.0.0"
         }
     ]
 }
