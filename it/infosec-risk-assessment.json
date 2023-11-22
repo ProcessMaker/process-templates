@@ -26,7 +26,7 @@
             "attributes": {
                 "id": 62,
                 "uuid": "9a9d2a31-a8a4-4739-a9d8-66f95d76a37d",
-                "key": null,
+                "key":"default_templates",
                 "name": "Infosec Risk Assessment",
                 "description": "Reinvent security protocols with our Infosec Risk Assessment process \u2014 a digitalized framework designed to automate evaluations, promote compliance, and enhance cybersecurity.",
                 "version": "1.0.0",

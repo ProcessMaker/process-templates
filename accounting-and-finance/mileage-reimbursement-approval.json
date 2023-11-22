@@ -26,7 +26,7 @@
             "attributes": {
                 "id": 109,
                 "uuid": "9a15f643-46d2-41ca-9aad-10158ef840a2",
-                "key": null,
+                "key":"default_templates",
                 "name": "Mileage Reimbursement Approval",
                 "description": "By automating and standardizing the mileage approval process, businesses save time, reduce errors, and maintain precise records, enhancing financial and operational efficiency.",
                 "version": "1.0.0",

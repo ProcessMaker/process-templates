@@ -26,7 +26,7 @@
             "attributes": {
                 "id": 119,
                 "uuid": "9a1c3415-261a-4cbc-ac17-007223434a06",
-                "key": null,
+                "key":"default_templates",
                 "name": "Workshop or Event Registration",
                 "description": "Enhance event planning efficiency, boost participant experience, and improve event data management with streamlined workshop and event registration.",
                 "version": "1.0.0",

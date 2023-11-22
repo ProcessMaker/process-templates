@@ -26,7 +26,7 @@
             "attributes": {
                 "id": 57,
                 "uuid": "999f162c-eba8-4412-8253-23ea70f75903",
-                "key": null,
+                "key":"default_templates",
                 "name": "Housing Request",
                 "description": "By utilizing the Housing Request process, you can expect improved efficiency, reduced response times, and seamless communication for your accommodation needs.",
                 "version": "1.5",

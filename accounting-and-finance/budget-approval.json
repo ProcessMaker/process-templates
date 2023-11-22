@@ -26,7 +26,7 @@
             "attributes": {
                 "id": 113,
                 "uuid": "9a164f8f-c4dd-47e5-9ec1-aed7ea44e36e",
-                "key": null,
+                "key":"default_templates",
                 "name": "Budget Approval",
                 "description": "Our Budget Approval process enhances financial accuracy, reduces risks, ensures compliance, and empowers leadership with data-driven decisions, promoting fiscal health.",
                 "version": "1.0.0",
