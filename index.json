@@ -234,11 +234,11 @@
         {
             "name": "Housing Request",
             "description": "By utilizing the Housing Request process, you can expect improved efficiency, reduced response times, and seamless communication for your accommodation needs.",
-            "hash": "08e0f56de5daa50b40b1e47c4c8873491e285a73",
-            "mod_time": "2023-09-28 20:50:15",
+            "hash": "205875a05062d62b8f170b7698d7c2e1b290dd46",
+            "mod_time": "2023-09-13 20:19:43",
             "relative_path": ".\/higher-education\/housing-request.json",
             "uuid": "999f162c-eba8-4412-8253-23ea70f75903",
-            "version": "1.6"
+            "version": "1.5"
         },
         {
             "name": "Primary or secondary major declarations",
@@ -517,15 +517,6 @@
             "relative_path": ".\/operations\/health-requirements.json",
             "uuid": "9a1c6b99-0434-45f1-b544-28ec6751603f",
             "version": null
-        },
-        {
-            "name": "Housing Request",
-            "description": "By utilizing the Housing Request process, you can expect improved efficiency, reduced response times, and seamless communication for your accommodation needs.",
-            "hash": "205875a05062d62b8f170b7698d7c2e1b290dd46",
-            "mod_time": "2023-09-13 20:19:43",
-            "relative_path": ".\/operations\/housing-request.json",
-            "uuid": "9a2053f6-c99d-45e0-aa49-1b911c49c4cd",
-            "version": "1.5"
         },
         {
             "name": "Incident Report",
