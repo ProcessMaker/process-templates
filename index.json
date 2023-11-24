@@ -298,7 +298,7 @@
         },
         {
             "name": "Employee Separation Process",
-            "description": "Introducing our streamlined Employee Separation process, designed to simplify offboarding, automate workflows, and promote a positive transition for employees and the organization.\r\n\r\nOur Employee Separation process aims to align with your HR goals, ensuring transparency, adherence to policies, and a smooth transition for departing employees. This promotes a positive company culture and maintains operational efficiency.",
+            "description": "Introducing our streamlined Employee Separation process, designed to simplify offboarding, automate workflows, and promote a positive transition for employees and the organization. Our Employee Separation process aims to align with your HR goals, ensuring transparency, adherence to policies, and a smooth transition for departing employees. This promotes a positive company culture and maintains operational efficiency.",
             "hash": "a307868c94631600133ebd626d35a54d0117d3ac",
             "mod_time": "2023-11-14 21:45:09",
             "relative_path": ".\/human-resources\/employee-separation-process.json",
@@ -457,7 +457,7 @@
         },
         {
             "name": "CSAT survey",
-            "description": "Introducing our cutting-edge Customer Satisfaction Survey process, designed to digitalize feedback collection, reinvent customer engagement, and promote continuous improvement.\r\n\r\nOur Customer Satisfaction Survey process aims to align with your customer-centric goals, providing transparency, adherence to customer expectations, and valuable insights for enhancing products and services. This promotes stronger customer loyalty and business growth.",
+            "description": "Introducing our cutting-edge Customer Satisfaction Survey process, designed to digitalize feedback collection, reinvent customer engagement, and promote continuous improvement. Our Customer Satisfaction Survey process aims to align with your customer-centric goals, providing transparency, adherence to customer expectations, and valuable insights for enhancing products and services. This promotes stronger customer loyalty and business growth.",
             "hash": "81211ebb853d45c498c2ace9be2d89bac59fdef7",
             "mod_time": "2023-11-14 21:46:05",
             "relative_path": ".\/operations\/csat-survey.json",
@@ -529,7 +529,7 @@
         },
         {
             "name": "Long Service Leave Application",
-            "description": "Introducing our modern Long Service Leave Application process, reinventing and streamlining leave requests to enhance employee satisfaction and operational efficiency.\r\n\r\nOur Long Service Leave Application process aims to align with your workforce's needs, offering transparency, adherence to leave policies, and promoting employee well-being, ensuring a harmonious work environment and seamless HR operations",
+            "description": "Introducing our modern Long Service Leave Application process, reinventing and streamlining leave requests to enhance employee satisfaction and operational efficiency. Our Long Service Leave Application process aims to align with your workforce's needs, offering transparency, adherence to leave policies, and promoting employee well-being, ensuring a harmonious work environment and seamless HR operations",
             "hash": "8d66773c14264f1f4e717e3a9ab6ad963e5caf17",
             "mod_time": "2023-11-14 21:43:59",
             "relative_path": ".\/operations\/long-service-leave-application.json",
