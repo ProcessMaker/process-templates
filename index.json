@@ -225,7 +225,7 @@
         {
             "name": "Disability Accomodation",
             "description": "The Disability Accommodation process starts with web-based requests and concludes upon processing completion. It pools accommodation requests and conducts thorough reviews for validity. Flow control manages progression. Requesters submit requests, while Reviewers evaluate and approve\/reject based on validity. Notifications keep requesters informed of their request status.",
-            "hash": "0abbff5a80970ecc85dcb5b617974ac4f9340f88",
+            "hash": "4b68519f85c700dc5c5b40d58d549b3b8ed64323",
             "mod_time": "2023-09-28 20:47:06",
             "relative_path": ".\/higher-education\/disability-accomodation.json",
             "uuid": "9a1c37f9-ad4b-438c-8082-cf637e881341",
@@ -335,7 +335,7 @@
         {
             "name": "Performance review",
             "description": "Boost employee engagement, productivity, and professional development by implementing a structured and collaborative performance review process, driving organizational success.",
-            "hash": "398ae7c3b8d28314d366fd5866ae11c451e6f080",
+            "hash": "61e9c42108f3d749df43dc35b46c3b8a7aaf6d39",
             "mod_time": "2023-09-13 20:15:45",
             "relative_path": ".\/human-resources\/performance-review.json",
             "uuid": "9987175f-b5c9-4a8a-a9b2-32bdca5bcdcb",
@@ -355,7 +355,7 @@
         {
             "name": "Change Request",
             "description": "Drive continuous improvement, agility, and efficiency by enabling seamless change request management, ensuring suitability and impact assessment for effective enhancements.",
-            "hash": "e0f536431607b112cde854768477ba30985aadf7",
+            "hash": "ffd9662790e55285e9105ff645863e42fc93ace4",
             "mod_time": "2023-09-27 21:08:00",
             "relative_path": ".\/it\/change-request.json",
             "uuid": "999f14f6-1a97-4873-9a6b-0b01a7ff1b20",
@@ -539,7 +539,7 @@
         {
             "name": "Overtime Claim Approval",
             "description": "Our Overtime Claim process streamlines and automates overtime request handling, reducing administrative burdens, improving accuracy, and ensuring timely employee compensation.",
-            "hash": "bb51147f92e28e82233d44b8b54e5588085659fc",
+            "hash": "65783bcf04bed9817ab844830513bef571411ef6",
             "mod_time": "2023-09-13 19:39:34",
             "relative_path": ".\/operations\/overtime-claim-approval.json",
             "uuid": "9a1c0536-edeb-46ab-89bf-4136800c731f",
@@ -620,7 +620,7 @@
         {
             "name": "Work Order Request",
             "description": "Optimize resource allocation, improve task accuracy, and ensure alignment with organizational goals by efficiently managing work order requests, enhancing operational efficiency.",
-            "hash": "fe19474b4b3e616eac5ae3dba5bddd9b11a389e8",
+            "hash": "8d1a8e60bfb073c9546f2db6e5df0e8ae34ed6a4",
             "mod_time": "2023-09-13 19:46:44",
             "relative_path": ".\/operations\/work-order-request.json",
             "uuid": "9a1c6ced-af55-4e59-aad8-033d48420e59",
