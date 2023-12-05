@@ -21,7 +21,7 @@
         {
             "name": "Invoice Approval",
             "description": "Our \"Invoice Approval\" process enhances financial accuracy, reduces errors, and accelerates invoice processing, ensuring timely payments and improved vendor relationships.",
-            "hash": "042b1063f1088e3c553e92d7e29d1790e16040e4",
+            "hash": "56129293e31664799bfe306804133eff2b7374a0",
             "mod_time": "2023-09-27 17:50:41",
             "relative_path": ".\/accounting-and-finance\/invoice-approval.json",
             "uuid": "992059a7-6a63-48b0-9f02-2bf5ea8c27a7",
@@ -66,7 +66,7 @@
         {
             "name": "Vendor Onboarding",
             "description": "Our \"Vendor Onboarding\" process streamlines supplier integration, reduces risks, and enhances communication, fostering productive and secure partnerships that benefit your organization's success.",
-            "hash": "c28a578a3aa1037a2c6c8911c8801da69b0f147b",
+            "hash": "57f08145fb6ecaa4db551037dd0d7eba3dccdc8d",
             "mod_time": "2023-09-27 18:45:25",
             "relative_path": ".\/accounting-and-finance\/vendor-onboarding.json",
             "uuid": "991ec61b-4de8-49ab-bfea-19ebbe472238",
@@ -225,7 +225,7 @@
         {
             "name": "Disability Accomodation",
             "description": "The Disability Accommodation process starts with web-based requests and concludes upon processing completion. It pools accommodation requests and conducts thorough reviews for validity. Flow control manages progression. Requesters submit requests, while Reviewers evaluate and approve\/reject based on validity. Notifications keep requesters informed of their request status.",
-            "hash": "4b68519f85c700dc5c5b40d58d549b3b8ed64323",
+            "hash": "2deaeb5096f4ba7f2853e77d9793a4b0c7c9b8d0",
             "mod_time": "2023-09-28 20:47:06",
             "relative_path": ".\/higher-education\/disability-accomodation.json",
             "uuid": "9a1c37f9-ad4b-438c-8082-cf637e881341",
@@ -317,7 +317,7 @@
         {
             "name": "New Employee Offer",
             "description": "Our \"New Employee Offer\" process expedites hiring, reduces administrative overhead, and enhances candidate experience, ensuring swift talent acquisition and smoother onboarding.",
-            "hash": "2a1977e277b55b7d33a8073c648a239e32f0a93d",
+            "hash": "5f1a2e1b0f19d2224dbac40f5fa02d2ceb4fbc00",
             "mod_time": "2023-09-27 18:56:13",
             "relative_path": ".\/human-resources\/new-employee-offer.json",
             "uuid": "99205b16-d2e8-4c80-b57f-43fd63195292",
@@ -335,7 +335,7 @@
         {
             "name": "Performance review",
             "description": "Boost employee engagement, productivity, and professional development by implementing a structured and collaborative performance review process, driving organizational success.",
-            "hash": "61e9c42108f3d749df43dc35b46c3b8a7aaf6d39",
+            "hash": "119540e898b870df75cce483a3a955e7057547a9",
             "mod_time": "2023-09-13 20:15:45",
             "relative_path": ".\/human-resources\/performance-review.json",
             "uuid": "9987175f-b5c9-4a8a-a9b2-32bdca5bcdcb",
@@ -355,7 +355,7 @@
         {
             "name": "Change Request",
             "description": "Drive continuous improvement, agility, and efficiency by enabling seamless change request management, ensuring suitability and impact assessment for effective enhancements.",
-            "hash": "ffd9662790e55285e9105ff645863e42fc93ace4",
+            "hash": "e61e5b6e5221d76e241176ce0a874f2f332071df",
             "mod_time": "2023-09-27 21:08:00",
             "relative_path": ".\/it\/change-request.json",
             "uuid": "999f14f6-1a97-4873-9a6b-0b01a7ff1b20",
@@ -476,7 +476,7 @@
         {
             "name": "Committee approval",
             "description": "Our \"Committee Approval\" process enhances decision-making, reduces delays, and ensures compliance, resulting in streamlined processes and more informed outcomes.",
-            "hash": "72088d27d3d811a3e02fb86009f2e5a9a9c6dfd7",
+            "hash": "852c5cb92b23a7b8079e0a3a71ae0f24fcf50028",
             "mod_time": "2023-09-27 19:02:28",
             "relative_path": ".\/operations\/committee-approval.json",
             "uuid": "992067bd-9814-4337-8100-ad261b223d0b",
@@ -539,7 +539,7 @@
         {
             "name": "Overtime Claim Approval",
             "description": "Our Overtime Claim process streamlines and automates overtime request handling, reducing administrative burdens, improving accuracy, and ensuring timely employee compensation.",
-            "hash": "65783bcf04bed9817ab844830513bef571411ef6",
+            "hash": "73a8346f66b28153492c387d0578393eee4301f9",
             "mod_time": "2023-09-13 19:39:34",
             "relative_path": ".\/operations\/overtime-claim-approval.json",
             "uuid": "9a1c0536-edeb-46ab-89bf-4136800c731f",
@@ -620,7 +620,7 @@
         {
             "name": "Work Order Request",
             "description": "Optimize resource allocation, improve task accuracy, and ensure alignment with organizational goals by efficiently managing work order requests, enhancing operational efficiency.",
-            "hash": "8d1a8e60bfb073c9546f2db6e5df0e8ae34ed6a4",
+            "hash": "03e5e70e4b98a78dd9fd474b853ce3a3a1cedddf",
             "mod_time": "2023-09-13 19:46:44",
             "relative_path": ".\/operations\/work-order-request.json",
             "uuid": "9a1c6ced-af55-4e59-aad8-033d48420e59",
