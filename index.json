@@ -225,7 +225,7 @@
         {
             "name": "Disability Accomodation",
             "description": "The Disability Accommodation process starts with web-based requests and concludes upon processing completion. It pools accommodation requests and conducts thorough reviews for validity. Flow control manages progression. Requesters submit requests, while Reviewers evaluate and approve\/reject based on validity. Notifications keep requesters informed of their request status.",
-            "hash": "55e436070e512802fc7507fd406e2c18702760e4",
+            "hash": "0abbff5a80970ecc85dcb5b617974ac4f9340f88",
             "mod_time": "2023-09-28 20:47:06",
             "relative_path": ".\/higher-education\/disability-accomodation.json",
             "uuid": "9a1c37f9-ad4b-438c-8082-cf637e881341",
@@ -620,7 +620,7 @@
         {
             "name": "Work Order Request",
             "description": "Optimize resource allocation, improve task accuracy, and ensure alignment with organizational goals by efficiently managing work order requests, enhancing operational efficiency.",
-            "hash": "a2abde481f0438859b4082871d7285f3af75efdf",
+            "hash": "fe19474b4b3e616eac5ae3dba5bddd9b11a389e8",
             "mod_time": "2023-09-13 19:46:44",
             "relative_path": ".\/operations\/work-order-request.json",
             "uuid": "9a1c6ced-af55-4e59-aad8-033d48420e59",
