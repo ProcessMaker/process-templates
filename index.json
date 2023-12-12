@@ -1,6 +1,15 @@
 {
     "accounting-and-finance": [
         {
+            "name": "Budget Approval",
+            "description": "Our Budget Approval process enhances financial accuracy, reduces risks, ensures compliance, and empowers leadership with data-driven decisions, promoting fiscal health.",
+            "hash": "03ff34939ba6f9f1060a1a46b3c7ce5249531e51",
+            "mod_time": "2023-09-13 19:34:44",
+            "relative_path": ".\/accounting-and-finance\/budget-approval.json",
+            "uuid": "9a164f8f-c4dd-47e5-9ec1-aed7ea44e36e",
+            "version": "1.0.0"
+        },
+        {
             "name": "Expense Approval",
             "description": "Extract the information from any payment slip picture and submit an expense approval request.",
             "hash": "e3c33e0826255074e11f114b05c1a2b56ca125d2",
@@ -10,377 +19,611 @@
             "version": "1.0.0"
         },
         {
-            "name": "Invoice Approval ",
-            "description": "Unleash the power of flawless invoicing with our game-changing process template! Say goodbye to inaccuracies and incomplete invoices, and embrace a streamlined workflow that ensures precision at every step. Our innovative template empowers you to review and approve invoices before seamlessly posting them to your ERP system.",
-            "hash": "f8283b43ac1ba1ebda8dad7d6d7a2eeac57be88a",
-            "mod_time": "2023-08-08 15:22:05",
+            "name": "Invoice Approval",
+            "description": "Our \"Invoice Approval\" process enhances financial accuracy, reduces errors, and accelerates invoice processing, ensuring timely payments and improved vendor relationships.",
+            "hash": "52312d904949b14e069662fa4c9a1e2b84de3557",
+            "mod_time": "2023-09-27 17:50:41",
             "relative_path": ".\/accounting-and-finance\/invoice-approval.json",
             "uuid": "992059a7-6a63-48b0-9f02-2bf5ea8c27a7",
+            "version": "1.6"
+        },
+        {
+            "name": "Mileage Reimbursement Approval",
+            "description": "By automating and standardizing the mileage approval process, businesses save time, reduce errors, and maintain precise records, enhancing financial and operational efficiency.",
+            "hash": "5e57b7f94bb9b4e47d2d27f15adcf5906f4bd306",
+            "mod_time": "2023-09-13 19:31:20",
+            "relative_path": ".\/accounting-and-finance\/mileage-reimbursement-approval.json",
+            "uuid": "9a15f643-46d2-41ca-9aad-10158ef840a2",
+            "version": "1.0.0"
+        },
+        {
+            "name": "Payment request form",
+            "description": "Reinvent your financial workflows with our Payment Request process \u2013 a seamless solution to automate transactions, promote efficiency, and elevate financial management.",
+            "hash": "15e07cdd119def80b10355b4f068d5bb34adb3c7",
+            "mod_time": "2023-11-14 21:35:34",
+            "relative_path": ".\/accounting-and-finance\/payment-request.json",
+            "uuid": "9a9d25d1-1b5a-4567-be17-047d3ed2e462",
             "version": "1.0.0"
         },
         {
             "name": "Purchase Order",
-            "description": "Unlock streamlined procurement: Simplify, generate orders, and enhance operations with our cutting-edge Purchase Order Template!",
-            "hash": "f224408c43a4129d1ab0e7e7ffeb9a68028b4218",
-            "mod_time": "2023-08-08 15:49:32",
+            "description": "This efficient process ensures accurate purchasing, timely approvals, and clear communication with vendors, ultimately saving time and improving efficiency for your business.",
+            "hash": "27143abe8a46c7275f21001d2a2c2beae793ece2",
+            "mod_time": "2023-09-28 20:59:12",
             "relative_path": ".\/accounting-and-finance\/purchase-order.json",
             "uuid": "9974d230-b80d-42d2-9374-acf7ff1682bd",
-            "version": "1.0.0"
+            "version": "1.6"
         },
         {
-            "name": "Quote Request",
-            "description": "Revolutionize your procurement process with our cutting-edge process template! Say goodbye to manual RFQ procedures and embrace an automated approach that streamlines your procurement operations. Our innovative template simplifies the process of requesting and obtaining quotations, ensuring a seamless and efficient two-step process. From procuring materials to hiring services, our solution saves time, increases efficiency, and enhances productivity.",
-            "hash": "a0b54fbb40b3e75201d754598ed1075a3d1f357b",
-            "mod_time": "2023-08-08 15:31:28",
+            "name": "Quote request",
+            "description": "By implementing our quote request process, your business aims to align teams, improve transparency, and adhere to a structured evaluation process. It enhances communication with suppliers and promotes efficient decision-making, ultimately driving better outcomes for your organization.",
+            "hash": "a5f3cc81ed0cbf7eca00d58cf3b6c99aef30bf2b",
+            "mod_time": "2023-09-27 19:39:18",
             "relative_path": ".\/accounting-and-finance\/quote-request.json",
             "uuid": "99205c7c-bb42-4ff7-9e44-1b68365f66f4",
-            "version": "1.0.0"
+            "version": "1.6"
         },
         {
             "name": "Vendor Onboarding",
-            "description": "Ensure that all necessary documentation is obtained and verified before approving a new vendor.",
-            "hash": "1aa3425f09b0e8f1ee91a1009e67a50100678785",
-            "mod_time": "2023-08-08 15:23:39",
+            "description": "Our \"Vendor Onboarding\" process streamlines supplier integration, reduces risks, and enhances communication, fostering productive and secure partnerships that benefit your organization's success.",
+            "hash": "f3c12c981dc3a2a0c51497981e3cbada6983f627",
+            "mod_time": "2023-09-27 18:45:25",
             "relative_path": ".\/accounting-and-finance\/vendor-onboarding.json",
             "uuid": "991ec61b-4de8-49ab-bfea-19ebbe472238",
-            "version": "1.0.0"
+            "version": "1.6"
         }
     ],
     "banking": [
         {
-            "name": "Auto Loan Request",
-            "description": "Automate the process of applying for a car loan for your customers. This process includes Know Your Customer (KYC) and Know Your Business (KYB) entries, as well as the creation of PDF files and email notifications.",
-            "hash": "85690a4ecbd38d12bc245c7081055a7f23615e56",
-            "mod_time": "2023-05-09 15:03:57",
+            "name": "Auto loan",
+            "description": "Our \"Auto Loan Request\" process optimizes loan processing, reduces paperwork, and enhances customer experience, resulting in faster approvals, improved customer satisfaction, and efficient compliance management.",
+            "hash": "95bba80be2fc97af13775148b0dd97a0c00cc40a",
+            "mod_time": "2023-09-29 15:30:25",
             "relative_path": ".\/banking\/auto-loan-request.json",
-            "uuid": "9920680e-943b-44af-bdbe-bc4a95a34a75",
-            "version": "1.0.0"
+            "uuid": "9a401b46-c468-48e8-aee0-c8f7c468960d",
+            "version": "1.6"
         },
         {
             "name": "Debit Card Application",
-            "description": "Automate the process of applying for a debit card for your banking customers. This process includes Know Your Customer (KYC) and Know Your Business (KYB) entries, as well as the creation of PDF files and email notifications.",
-            "hash": "6fd049a9b416c13d8e054f383552a3094b957d53",
-            "mod_time": "2023-08-08 15:27:16",
+            "description": "Our \"Debit Card Application\" process streamlines card issuance, reduces paperwork, enhances customer satisfaction, and ensures compliance, resulting in faster approvals and improved customer experience.",
+            "hash": "dc40fed32b1f5fa7e95c642c0cba27d59d54fe23",
+            "mod_time": "2023-09-13 20:39:21",
             "relative_path": ".\/banking\/debit-card-application.json",
             "uuid": "99206849-f774-4733-833a-e254991d0f80",
+            "version": "1.5"
+        },
+        {
+            "name": "Financial hardship application",
+            "description": "Reinvent support systems with our Financial Hardship Application process \u2014 a compassionate solution designed to digitalize assistance, streamline reviews, and promote financial relief.",
+            "hash": "afc012641d8f265bc1948d36cfa8b921e7642548",
+            "mod_time": "2023-11-14 21:38:27",
+            "relative_path": ".\/banking\/financial-hardship-application.json",
+            "uuid": "9a9d28fd-238c-4e29-aaf1-e1d41759e0fa",
+            "version": "1.0.0"
+        },
+        {
+            "name": "KYC Approval",
+            "description": "This KYC approval process safeguards regulatory compliance, enhancing trust and ensuring efficient service delivery to customers.",
+            "hash": "0b35c75d0f304d870fe445ad7dc7e520bc6f6f20",
+            "mod_time": "2023-09-13 19:30:41",
+            "relative_path": ".\/banking\/kyc-approval.json",
+            "uuid": "9a15ee4f-fc97-42ed-a9b5-cd4ccf8f9a88",
             "version": "1.0.0"
         },
         {
             "name": "Residential Loan",
-            "description": "Automate the process of applying for a loan for a residential property. This process includes Know Your Customer (KYC) and Know Your Business (KYB) entries, as well as the creation of PDF files and email notifications.",
-            "hash": "a00194cd60cc9fc7ad679209843830bd68c9ea2a",
-            "mod_time": "2023-08-08 15:28:12",
+            "description": "Our \"Residential Loan Application\" process streamlines the path to homeownership, reduces paperwork, enhances customer satisfaction, and ensures compliance, resulting in faster approvals and fulfilled homeownership dreams.",
+            "hash": "d4e37f37da068723ce2d0e4fc588a3110212682d",
+            "mod_time": "2023-09-29 17:20:11",
             "relative_path": ".\/banking\/residential-loan.json",
             "uuid": "9920688c-32d7-4ff7-adea-5a6c20a7ee6d",
-            "version": "1.0.0"
+            "version": "1.6"
         },
         {
             "name": "Trust Account Disbursement",
-            "description": "Optimize trust account disbursement process: streamline workflows, enhance accuracy, and ensure compliance for efficient financial operations.",
-            "hash": "cc6101a3f1dd718cbe4156bbbdc5a8464f3bc7e2",
-            "mod_time": "2023-08-08 15:39:05",
+            "description": "Introducing the Trust Account Disbursement Process Template: Simplify collaboration between customers, bankers, and the system. Streamline your financial operations with this powerful template, empowering your organization with streamlined workflows and enhanced productivity.",
+            "hash": "a6b96eecc4877fcf2c3667a36e924cf3240bb4cc",
+            "mod_time": "2023-09-27 19:57:37",
             "relative_path": ".\/banking\/trust-account-disbursement.json",
             "uuid": "995b21d6-c556-49f6-848e-a36070f5d6e6",
-            "version": "1.0.0"
+            "version": "1.6"
         }
     ],
     "customer-success": [
         {
             "name": "Contact Us",
-            "description": "Transform your customer support experience with our groundbreaking process template! Say goodbye to robotic interactions and embrace a personalized, human-like approach that leaves a lasting impression. Our innovative template leverages conversational forms to seamlessly manage conversations with your clients, enabling efficient and engaging communication. From capturing inquiries to resolving issues, our solution ensures a positive customer experience every step of the way.",
-            "hash": "0989492e5d07c22ff6797baa0d92c73067ea49ea",
-            "mod_time": "2023-08-08 15:29:24",
+            "description": "Our \"Contact Us\" process enhances customer satisfaction, streamlines support, and fosters efficient communication, leading to improved customer relationships and issue resolution.",
+            "hash": "6f120b946ef98b6e99232047079a2f770c4daf40",
+            "mod_time": "2023-09-13 20:36:08",
             "relative_path": ".\/customer-success\/contact-us.json",
             "uuid": "99205786-5754-43a9-8950-9fb0dc5d9780",
-            "version": "1.0.0"
+            "version": "1.5"
         },
         {
             "name": "Customer Churn Survey",
-            "description": "Introducing our game-changing feedback template, meticulously crafted to tackle customer churn head-on! Unlock the potential of customer insights and seize control over why customers abandon specific products or services. Our revolutionary template empowers you to gather crucial information, pinpoint pain points, and enhance user experience. Say farewell to lost customers and harness the power of retention. Adapt, engage, and propel your business to new heights by utilizing this cutting-edge solution.",
-            "hash": "b956c51faeadaa73bd2dc680f66530f66d01652b",
-            "mod_time": "2023-08-08 15:35:34",
-            "relative_path": ".\/customer-success\/customer-church-survey.json",
+            "description": "By implementing our customer churn survey process, your business aims to identify reasons for customer churn, improve customer retention strategies, and enhance overall customer satisfaction. It provides valuable feedback to make informed decisions, optimize processes, and retain valuable customers.",
+            "hash": "80114ebc5012458114bf2e031b665272d7f40c55",
+            "mod_time": "2023-09-27 19:51:38",
+            "relative_path": ".\/customer-success\/customer-churn-survey.json",
             "uuid": "99205915-38f6-43b7-88d6-7e6e1c0c922f",
-            "version": "1.0.0"
+            "version": "1.6"
         },
         {
             "name": "Project Handover",
-            "description": "Ensure seamless project transitions from sales to customer success or project manager to delivery team",
-            "hash": "8abde9b5811036dd85d7883e3fd1956fff0f3c09",
-            "mod_time": "2023-08-08 15:32:57",
+            "description": "By implementing our project handover process, your business aims to align teams, improve transparency, and ensure adherence to project requirements. It enhances the efficiency of handovers, minimizes errors, and promotes effective collaboration between project stakeholders. Ultimately, it leads to successful project transitions and satisfied stakeholders.",
+            "hash": "9340d65f7b04c5a455239f0e623eb8364adc3f57",
+            "mod_time": "2023-09-27 19:43:39",
             "relative_path": ".\/customer-success\/project-handover.json",
             "uuid": "99205bd2-eb90-4f4f-930d-24a455c465b5",
-            "version": "1.0.0"
+            "version": "1.6"
         },
         {
             "name": "Software Satisfaction Survey",
-            "description": "Unlock the key to customer satisfaction with our revolutionary process template! Say goodbye to guesswork and embrace a data-driven approach that allows you to measure and understand your customers better. Our innovative template enables you to evaluate your software, product, or service through surveys, capturing valuable insights into customer behavior and preferences. From measuring satisfaction to identifying improvement areas, our solution empowers you to enhance your offerings and exceed customer expectations.",
-            "hash": "fee3751b0ffed053850c2b2c1621d67341b4dfa4",
-            "mod_time": "2023-08-08 15:34:59",
+            "description": "By implementing our software satisfaction survey process, your business aims to align with customer needs, improve transparency, and gather valuable insights for product improvement. It enhances the efficiency of survey administration, enables effective analysis of customer feedback, and ultimately helps in making informed decisions to enhance customer satisfaction and loyalty.",
+            "hash": "cd49a6133bb74d67f4ac089e612010dff8247f4a",
+            "mod_time": "2023-09-27 19:45:57",
             "relative_path": ".\/customer-success\/software-satisfaction-survey.json",
             "uuid": "99206562-1c7f-4fb8-abcc-c612540d8e5a",
-            "version": "1.0.0"
+            "version": "1.6"
         }
     ],
     "higher-education": [
         {
             "name": "Admissions Application",
             "description": "Transform admissions. Streamline processes. Simplify enrollment. Discover the future of seamless admissions with our exceptional template!",
-            "hash": "868fb0df190f1b601e800a81d9fa1375f94d2bd6",
-            "mod_time": "2023-08-10 21:01:34",
+            "hash": "9dc04592048eb968327b05438a94a24f0c85f61c",
+            "mod_time": "2023-09-28 20:39:16",
             "relative_path": ".\/higher-education\/admissions-application.json",
             "uuid": "999f1577-f6a2-4926-8755-d80efeb97c20",
             "version": "1.0.0"
         },
         {
             "name": "Change of Grade",
-            "description": "Faculty members can request the change of grades through a form that can be embedded to and started from the University\u2019s website. Next, this request routes to the Department Chair for approval, and then, the request forwards to the Dean of Academic Affairs. If both approve the grade change, the information routes to the Registrar for registration accordingly.",
-            "hash": "eca3e65c82dc2627885cecb5407db906661eae2e",
-            "mod_time": "2023-08-08 15:42:02",
+            "description": "Our \"Change of Grade\" process enhances academic integrity, streamlines grade change requests, and fosters collaboration between faculty and administration, ultimately benefiting students and institutions.",
+            "hash": "dba889fa1c07c70e49a3f08c8fbb29af774abb38",
+            "mod_time": "2023-09-27 20:08:17",
             "relative_path": ".\/higher-education\/change-of-grade.json",
             "uuid": "995b2435-4f93-422e-90ab-01a358582748",
-            "version": "1.0.0"
+            "version": "1.6"
         },
         {
             "name": "Change of Major",
-            "description": "Students can request a change of major or a program change through a form that can be embedded to and started from the University\u2019s website. After the student submits the form, the academic advisor receives a notification to review the request. If the request is approved, the Registrar is informed to update the Student Information System.",
-            "hash": "420ebf9293aa24477ae1b8d472cb845852818a39",
-            "mod_time": "2023-08-08 15:43:22",
+            "description": "Our \"Change of Major\" process enhances student satisfaction, streamlines major change requests, and promotes academic flexibility, fostering success in higher education institutions.",
+            "hash": "ab095f334d05f1f30d2276b15e6f392b37f4c5df",
+            "mod_time": "2023-09-27 20:13:55",
             "relative_path": ".\/higher-education\/change-of-major.json",
             "uuid": "995b2510-7b8f-49a1-9a12-77cb45d471ab",
+            "version": "1.6"
+        },
+        {
+            "name": "Co-Curricular Transcript Request",
+            "description": "Enhance administrative efficiency, student service quality, and record-keeping accuracy with an automated curricular transcript request process, streamlining academic operations.",
+            "hash": "c446b369fb220c162cc9445ade0e813ae0e64802",
+            "mod_time": "2023-09-22 16:13:47",
+            "relative_path": ".\/higher-education\/co-curricular-transcript.json",
+            "uuid": "9a3216de-6e0b-4be2-ae94-89ffd95f70b9",
             "version": "1.0.0"
         },
         {
             "name": "Course Approval",
-            "description": "In this process, faculty members can submit course proposals to their department chair for review and approval. When the course proposal is approved, the Registrar receives the course information to update it in the Student Information System.",
-            "hash": "e2fb4bba933129d375381fe4012c5c8b3d818c3a",
-            "mod_time": "2023-08-08 15:39:51",
+            "description": "Our \"Course Approval\" process optimizes academic curriculum development, enhances faculty collaboration, and expedites decision-making, resulting in a dynamic and relevant course offering.",
+            "hash": "1cf710415b2949f51556670d97a78964ab17ff0f",
+            "mod_time": "2023-09-27 20:00:11",
             "relative_path": ".\/higher-education\/course-approval.json",
             "uuid": "995b22d1-05b7-454c-ab86-bbb0b2119269",
-            "version": "1.0.0"
+            "version": "1.6"
         },
         {
             "name": "Create Student Hold",
-            "description": "In this process, requesters from academic or administrative departments can submit a hold on a student\u2019s record, thereby restricting that student from performing certain actions until the hold is resolved and removed. Depending on the type of hold, this may prevent the student from receiving an enrollment window, enrolling in courses, paying tuition and fees, ordering transcripts and verifications, etc. The request may be submitted using a form that can be embedded to the University\u2019s website. This form is ready to embed on the University\u2019s website. An academic or administrative department member starts a request. The finance manager receives the request and can either approve or deny the hold request. If the request is approved, personnel at the registration department get the request to be processed in the Student Information System",
-            "hash": "c14d0c2a7f78718ae0bf81c7810a406555141231",
-            "mod_time": "2023-08-08 15:48:16",
+            "description": "By implementing our Create Student Hold process, your business can streamline hold creation, improve communication between stakeholders, and ensure efficient management of student holds. It eliminates manual processes, reduces errors, and enhances transparency in hold management, ultimately improving the overall student experience and administrative efficiency.",
+            "hash": "6efe127c2313310a144281a681ec1a518324fc03",
+            "mod_time": "2023-09-27 20:25:38",
             "relative_path": ".\/higher-education\/create-student-hold.json",
             "uuid": "995b3178-b799-4948-9b6c-1cc52dfdaba5",
-            "version": "1.0.0"
+            "version": "1.6"
+        },
+        {
+            "name": "Disability Accomodation",
+            "description": "The Disability Accommodation process starts with web-based requests and concludes upon processing completion. It pools accommodation requests and conducts thorough reviews for validity. Flow control manages progression. Requesters submit requests, while Reviewers evaluate and approve\/reject based on validity. Notifications keep requesters informed of their request status.",
+            "hash": "17ca95b81f577cb9ba09e0818b78167d49f461eb",
+            "mod_time": "2023-09-28 20:47:06",
+            "relative_path": ".\/higher-education\/disability-accomodation.json",
+            "uuid": "9a1c37f9-ad4b-438c-8082-cf637e881341",
+            "version": "1.6"
         },
         {
             "name": "Housing Request",
-            "description": "Simplify housing requests and streamline the process with our seamless software solution.",
-            "hash": "d0deaeed7e4a6d1afa49a6ebc851b12e0a730461",
-            "mod_time": "2023-08-08 15:50:39",
+            "description": "By utilizing the Housing Request process, you can expect improved efficiency, reduced response times, and seamless communication for your accommodation needs.",
+            "hash": "205875a05062d62b8f170b7698d7c2e1b290dd46",
+            "mod_time": "2023-09-13 20:19:43",
             "relative_path": ".\/higher-education\/housing-request.json",
             "uuid": "999f162c-eba8-4412-8253-23ea70f75903",
-            "version": "1.0.0"
+            "version": "1.5"
         },
         {
             "name": "Primary or secondary major declarations",
-            "description": "Students can declare their primary major or second major through a form that can be embedded to and started from the University\u2019s website. After the form is submitted, the academic advisor receives a notification to review the request. If the request is approved, the Registrar is informed to update the Student Information System accordingly.",
-            "hash": "8d9c2a42930db35264883335cf5d1ebd92c595ce",
-            "mod_time": "2023-08-08 15:44:22",
+            "description": "This process streamlines major declarations, enhances academic planning, and fosters student success in higher education institutions, resulting in improved educational experiences.",
+            "hash": "f4c622e211ed5e279dbf8053a3df84a55a7684ff",
+            "mod_time": "2023-09-27 20:17:22",
             "relative_path": ".\/higher-education\/primary-or-secondary-major-declarations.json",
             "uuid": "995b2fa9-046f-4f1a-9cde-962f4f0bfa64",
-            "version": "1.0.0"
+            "version": "1.6"
         },
         {
             "name": "Student charge creation",
-            "description": "Administrative departments can request the creation of a charge for a student to the Bursar\u2019s office, such as to charge fees related with Registration, Meals, Tuitions, and Housing. After a request is submitted, the Bursar\u2019s office can approve or cancel the request. If approved, the student receives an email with new charge details.",
-            "hash": "28d71ec5235b6b5431f68479f925310f7ad2729a",
-            "mod_time": "2023-08-08 15:44:56",
+            "description": "This process enhances financial management, reduces errors, and improves the overall financial experience for both students and administrative staff, resulting in operational efficiency.",
+            "hash": "b5980ec46cbd86429d9d9de533e48b8eb0c1864a",
+            "mod_time": "2023-09-27 20:21:59",
             "relative_path": ".\/higher-education\/student-charge-creation.json",
             "uuid": "995b32ac-5d7f-49c8-b22f-a8a4e2504ca0",
-            "version": "1.0.0"
+            "version": "1.6"
         },
         {
             "name": "Tuition Waiver Request",
-            "description": "Streamline higher education funding with \"Tuition Waiver Request\" - the ultimate solution for efficiency seekers!",
-            "hash": "8550cb11bf2cf05d3cba42500fe9da8aa1facce5",
-            "mod_time": "2023-08-08 15:51:15",
+            "description": "Enhance educational accessibility, reduce administrative burden, and ensure fair evaluation, guaranteeing smoother tuition waiver processing for educational institutions.",
+            "hash": "9286cf58c606247478c8a1e5ef0ad3e4206ee3bc",
+            "mod_time": "2023-09-27 20:52:45",
             "relative_path": ".\/higher-education\/tuition-waiver.json",
             "uuid": "999f176c-fd1e-41d3-b8cc-05f86f7309b3",
+            "version": "1.6"
+        },
+        {
+            "name": "Workshop or Event Registration",
+            "description": "Enhance event planning efficiency, boost participant experience, and improve event data management with streamlined workshop and event registration.",
+            "hash": "60002c9ac5114c9c2cefbde044a6c1812c74935b",
+            "mod_time": "2023-09-13 19:41:24",
+            "relative_path": ".\/higher-education\/workshop-or-event-registration.json",
+            "uuid": "9a1c3415-261a-4cbc-ac17-007223434a06",
             "version": "1.0.0"
         }
     ],
     "human-resources": [
         {
             "name": "COVID-19 Liability Waiver",
-            "description": "The individual agrees to release the organization from liability for COVID-19-related illness or injury.",
-            "hash": "992b207496627315196d2e062c9714620e899be9",
-            "mod_time": "2023-08-08 15:53:25",
+            "description": "Mitigate legal risks, demonstrate commitment to safety, and maintain compliance with COVID-19 regulations by efficiently managing liability waivers.",
+            "hash": "b6a4e2c49ab86e957175d993559b9d8a53d18442",
+            "mod_time": "2023-09-27 20:58:51",
             "relative_path": ".\/human-resources\/covid-19-liability-waiver.json",
             "uuid": "998eef5e-6be2-4b7a-9361-3d70981c286f",
-            "version": "1.0.0"
+            "version": "1.6"
         },
         {
             "name": "Employee Offboarding",
-            "description": "Revolutionize your offboarding process with our game-changing process template! Say goodbye to chaotic transitions and embrace a streamlined approach that ensures a smooth exit for departing employees. Our innovative template creates a comprehensive checklist of all offboarding tasks and automates the entire process from beginning to end. From revoking access to conducting exit interviews, our solution saves time, minimizes errors, and enhances efficiency.",
-            "hash": "6ff13fa46cacfae3151d693783da828019d9f1b4",
-            "mod_time": "2023-08-08 15:30:35",
+            "description": "Our employee offboarding process aims to align teams, promote transparency, and adhere to regulations. It ensures a smooth transition and minimizes risks for the organization.",
+            "hash": "00f2eed46873a0e5ba076ed00b31bf3741f9cffd",
+            "mod_time": "2023-09-27 19:37:24",
             "relative_path": ".\/human-resources\/employee-offboarding.json",
             "uuid": "992068dd-cd8a-4467-b6cc-b536657cd405",
+            "version": "1.6"
+        },
+        {
+            "name": "Employee Separation Process",
+            "description": "Introducing our streamlined Employee Separation process, designed to simplify offboarding, automate workflows, and promote a positive transition for employees and the organization. Our Employee Separation process aims to align with your HR goals, ensuring transparency, adherence to policies, and a smooth transition for departing employees. This promotes a positive company culture and maintains operational efficiency.",
+            "hash": "a307868c94631600133ebd626d35a54d0117d3ac",
+            "mod_time": "2023-11-14 21:45:09",
+            "relative_path": ".\/human-resources\/employee-separation-process.json",
+            "uuid": "9a9d2b88-b365-4f88-b32d-26a3d263d307",
             "version": "1.0.0"
         },
         {
             "name": "Leave of Absence",
-            "description": "Elevate your time-off management to new heights with our remarkable template! Unlock the potential of automation and effortlessly handle time-off requests from your dedicated employees or contractors.",
-            "hash": "b1b6aa5bec7e2372b470a1b413b385d5828fbd42",
-            "mod_time": "2023-08-08 15:16:42",
+            "description": "Our \"Leave of Absence\" process streamlines leave management, reducing administrative burdens, ensuring policy compliance, and providing clear communication channels for requesters. This leads to improved workforce satisfaction and efficient resource allocation.",
+            "hash": "0c47eec93815ab56e10147da588202fe1973958a",
+            "mod_time": "2023-09-27 17:28:12",
             "relative_path": ".\/human-resources\/leave-of-absence.json",
             "uuid": "991ec61b-2d9c-41f5-9b54-1d126f5fb3d2",
-            "version": "1.0.0"
+            "version": "1.6"
         },
         {
             "name": "New Employee Offer",
-            "description": "Revolutionize your hiring process with our cutting-edge process template! Say goodbye to tedious manual tasks and time-consuming paperwork, and embrace a streamlined and automated approach to sending employment offers. Our innovative template simplifies and accelerates the entire process, reducing workload and saving valuable time. From generating personalized offer letters to automating email delivery, our solution ensures a seamless and efficient hiring experience.",
-            "hash": "56bdd4b94ebb6310118c292c5e3e625b86788e36",
-            "mod_time": "2023-08-08 15:24:34",
+            "description": "Our \"New Employee Offer\" process expedites hiring, reduces administrative overhead, and enhances candidate experience, ensuring swift talent acquisition and smoother onboarding.",
+            "hash": "627b7755445cda327d3e1a06e7e4cadabc50445b",
+            "mod_time": "2023-09-27 18:56:13",
             "relative_path": ".\/human-resources\/new-employee-offer.json",
             "uuid": "99205b16-d2e8-4c80-b57f-43fd63195292",
-            "version": "1.0.0"
+            "version": "1.6"
         },
         {
             "name": "New hire onboarding",
-            "description": "Revolutionize your onboarding process and boost productivity with our game-changing template! Wave goodbye to the time and effort traditionally required to integrate new hires into your company. Our innovative template provides a streamlined onboarding experience that ensures a smooth transition for every new employee. From customizable checklists to interactive training materials, our solution saves time and enhances efficiency. Empower your team and optimize productivity from day one.",
-            "hash": "fbcae8fec452c437d562f827b840b42f5373dbc6",
-            "mod_time": "2023-08-08 15:18:03",
+            "description": "Our \"New Hire Onboarding\" process streamlines integration, boosts productivity, and fosters a positive employee experience. It reduces administrative overhead and accelerates the path to contribution, ultimately benefiting your organization's success.",
+            "hash": "51406f9a403dcd0c5cfa31aa26e50fe04b96e303",
+            "mod_time": "2023-09-27 17:44:20",
             "relative_path": ".\/human-resources\/new-hire-onboarding.json",
             "uuid": "991ec61b-1a35-449a-8ea1-74e3a521ff2f",
-            "version": "1.0.0"
+            "version": "1.6"
         },
         {
-            "name": "Performance Review",
-            "description": "The manager provides feedback on the employee's performance in the previous year.",
-            "hash": "b06997ef121125c5df05e12a968e57f923d16c3f",
-            "mod_time": "2023-08-08 15:53:45",
+            "name": "Performance review",
+            "description": "Boost employee engagement, productivity, and professional development by implementing a structured and collaborative performance review process, driving organizational success.",
+            "hash": "c74bb1e64fd39d601ece0b229789579b6e56e62d",
+            "mod_time": "2023-09-13 20:15:45",
             "relative_path": ".\/human-resources\/performance-review.json",
             "uuid": "9987175f-b5c9-4a8a-a9b2-32bdca5bcdcb",
-            "version": "1.0.0"
+            "version": "1.5"
         }
     ],
     "it": [
         {
             "name": "Business continuity plan",
-            "description": "The business continuity team develops a plan to mitigate the risks identified.",
-            "hash": "49a419689c24ca59a706e7a76b046c15a72a62f4",
-            "mod_time": "2023-08-04 23:08:23",
+            "description": "Enhance resilience, minimize downtime, and safeguard against disruptions with structured Business Continuity Plans, ensuring business continuity and long-term sustainability.",
+            "hash": "de8fc3df5f70089448b3d8785426a9404b729b83",
+            "mod_time": "2023-09-27 21:16:56",
             "relative_path": ".\/it\/business-continuity-plan.json",
             "uuid": "998ef4dd-86a4-40d8-8441-ec29d6c1c239",
-            "version": "1.0.0"
+            "version": "1.6"
         },
         {
             "name": "Change Request",
-            "description": "Optimize change management. Automate processes, gain control. Embrace Change Request, accelerate success now!",
-            "hash": "2234776a10e275249b72d7eb3afc05060b92a482",
-            "mod_time": "2023-08-24 16:41:31",
+            "description": "Drive continuous improvement, agility, and efficiency by enabling seamless change request management, ensuring suitability and impact assessment for effective enhancements.",
+            "hash": "439959877c73df25a52d55760bd6a3d71b9b4e98",
+            "mod_time": "2023-09-27 21:08:00",
             "relative_path": ".\/it\/change-request.json",
             "uuid": "999f14f6-1a97-4873-9a6b-0b01a7ff1b20",
+            "version": "1.6"
+        },
+        {
+            "name": "Infosec Risk Assessment",
+            "description": "Reinvent security protocols with our Infosec Risk Assessment process \u2014 a digitalized framework designed to automate evaluations, promote compliance, and enhance cybersecurity.",
+            "hash": "ba4f9baf24e3bf0e636c3d30c9fdfab117497e70",
+            "mod_time": "2023-11-14 21:41:24",
+            "relative_path": ".\/it\/infosec-risk-assessment.json",
+            "uuid": "9a9d2a31-a8a4-4739-a9d8-66f95d76a37d",
             "version": "1.0.0"
         },
         {
             "name": "Managed service request",
-            "description": "Efficiently centralize service requests for seamless management and prompt resolution with our Managed Service Request Template.",
-            "hash": "3d978584bfb55d40281de5028c75747d68d6b9cb",
-            "mod_time": "2023-08-08 15:48:49",
+            "description": "This process enhances user experience, minimizes downtime, and boosts productivity, ultimately leading to improved operational efficiency and user satisfaction.",
+            "hash": "38d49c10815475095764914d4361e8d8124762e5",
+            "mod_time": "2023-09-27 20:38:31",
             "relative_path": ".\/it\/managed-service-request.json",
             "uuid": "9978c9c3-091a-4d0b-8a6b-de4984dfe60e",
+            "version": "1.6"
+        },
+        {
+            "name": "Project kickoff checklist",
+            "description": "Efficiently plan and execute your projects with our Project Kickoff Checklist process. Streamline tasks, align stakeholders, and achieve successful outcomes. Simplify project planning, stay on track with deadlines, and maximize productivity and collaboration.",
+            "hash": "f345c29ad39f49a78cab709391c132fe5a2523c8",
+            "mod_time": "2023-09-27 20:34:55",
+            "relative_path": ".\/it\/project-kickoff-checklist.json",
+            "uuid": "9a3c832d-ea37-4c2f-9622-da28654b0e88",
             "version": "1.0.0"
         }
     ],
     "marketing-and-sales": [
         {
+            "name": "Design Approval",
+            "description": "Our Design Approval process, it efficiently handles design requests, ensuring that approved designs meet project requirements, thereby enhancing project delivery and customer satisfaction.",
+            "hash": "97e01026ee802b148ec10f0c9312d4b1ab0951f3",
+            "mod_time": "2023-09-13 19:38:24",
+            "relative_path": ".\/marketing-and-sales\/design-approval.json",
+            "uuid": "9a1bffa0-5037-4655-8559-d8e60ef81422",
+            "version": "1.0.0"
+        },
+        {
+            "name": "Marketing Request",
+            "description": "Boost marketing efficiency, align strategies with business goals, and improve collaboration by automating marketing request processes, enhancing campaign effectiveness and impact.",
+            "hash": "3dbcb45f2b4396307dafd1ca63b9ed34d5fb0846",
+            "mod_time": "2023-09-13 19:44:55",
+            "relative_path": ".\/marketing-and-sales\/marketing-request.json",
+            "uuid": "9a1c5c40-959d-4908-b3fc-3ef528c34c21",
+            "version": "1.0.0"
+        },
+        {
             "name": "Net promoter score",
-            "description": "NPS is an important metric for measuring customer loyalty and satisfaction, and it can help businesses to identify areas for improvement.",
-            "hash": "c344bbe3a9399c5d84971e1b335214916d31a0c5",
-            "mod_time": "2023-08-24 15:47:51",
+            "description": "Enhance customer relationships, drive referrals, and refine offerings by measuring and acting on NPS data, resulting in improved customer satisfaction and loyalty.",
+            "hash": "4ffd6b3a115ec7bca6916602f38169873b1eaff1",
+            "mod_time": "2023-09-27 21:23:27",
             "relative_path": ".\/marketing-and-sales\/net-promoter-score.json",
             "uuid": "999f11af-7b66-4e5e-b68c-702dde3595bb",
-            "version": "1.0.0"
+            "version": "1.6"
+        },
+        {
+            "name": "Refund Request",
+            "description": "Our Refund Request process optimizes financial accuracy, enhances customer satisfaction, and maintains transparency, streamlining refunds for improved business efficiency and reputation.",
+            "hash": "e5cdf3f104f8f9cb6a881a0dd5df0134f9987a48",
+            "mod_time": "2023-09-28 21:01:17",
+            "relative_path": ".\/marketing-and-sales\/refund-request.json",
+            "uuid": "9a3e33e0-3303-4e09-8be7-c80d6ed0718f",
+            "version": "1.6"
         },
         {
             "name": "Review Corporate Communication",
-            "description": "Ensure that corporate communications are reviewed and approved by executives before they are sent to stakeholders or media. This process enables effective communication between the company executives and the marketing team.",
-            "hash": "92436a92795a8959aa9e9e1ab55210d270ea7dce",
-            "mod_time": "2023-05-09 14:32:56",
+            "description": "Our \"Review Corporate Communication\" process enhances communication quality, maintains consistency, and ensures compliance, leading to more effective corporate messaging and stakeholder engagement.",
+            "hash": "c5240a543bddeeddfb1f875b71a88365829e29b9",
+            "mod_time": "2023-09-28 21:02:19",
             "relative_path": ".\/marketing-and-sales\/review-corporate-communication.json",
             "uuid": "99205cf6-cc7d-4e93-9bb3-ebc8e1069ca5",
-            "version": "1.0.0"
+            "version": "1.6"
         },
         {
             "name": "Share Sales Proposal",
-            "description": "Revolutionize your proposal sharing process with our dynamic process template! Say goodbye to inefficiency and hello to streamlined success. Our innovative two-step approach simplifies the process of creating winning proposals and seamlessly sending them via email to your valued customers. Save time, enhance productivity, and leave a lasting impression with our game-changing template.",
-            "hash": "89e83b1849418a691968b3095e5d8f1b4cfcf13d",
-            "mod_time": "2023-08-08 15:19:49",
+            "description": "Our \"Share Sales Proposal\" process enhances sales efficiency, accelerates deal closure, and presents a professional image, ultimately boosting revenue and customer satisfaction.",
+            "hash": "6406f35f4b9b425b99ee42b6462b1076c04178b0",
+            "mod_time": "2023-09-27 17:47:18",
             "relative_path": ".\/marketing-and-sales\/share-sales-proposal.json",
             "uuid": "99206526-b09d-4c8f-a53b-13e83ec06319",
-            "version": "1.0.0"
+            "version": "1.6"
         }
     ],
     "operations": [
         {
-            "name": "Committee approval",
-            "description": "Revolutionize your decision-making process with our groundbreaking process template! Say goodbye to disjointed board voting and embrace a streamlined approach that fosters effective engagement and consensus-building. Our innovative template enables seamless participation from board members in voting on critical decisions requiring committee approval. From comprehensive decision tracking to real-time collaboration, our solution ensures transparency and facilitates unified decision-making.",
-            "hash": "427758ed66d779eeee70da035fd7c966462d3e13",
-            "mod_time": "2023-08-08 15:26:01",
-            "relative_path": ".\/operations\/committee-approval.json",
-            "uuid": "992067bd-9814-4337-8100-ad261b223d0b",
+            "name": "COVID-19 Return to Work",
+            "description": "Enhance safety and efficiency by efficiently evaluating and approving employee return-to-work requests, ensuring a smooth transition post-COVID-19 absence.",
+            "hash": "870dfe11b9ff9b828eb78872311d56d42d628ecb",
+            "mod_time": "2023-09-13 19:40:20",
+            "relative_path": ".\/operations\/covid-19-return-to-work.json",
+            "uuid": "9a1c3346-016e-4c34-a9e1-2aea1c214481",
             "version": "1.0.0"
         },
         {
+            "name": "CSAT survey",
+            "description": "Introducing our cutting-edge Customer Satisfaction Survey process, designed to digitalize feedback collection, reinvent customer engagement, and promote continuous improvement. Our Customer Satisfaction Survey process aims to align with your customer-centric goals, providing transparency, adherence to customer expectations, and valuable insights for enhancing products and services. This promotes stronger customer loyalty and business growth.",
+            "hash": "81211ebb853d45c498c2ace9be2d89bac59fdef7",
+            "mod_time": "2023-11-14 21:46:05",
+            "relative_path": ".\/operations\/csat-survey.json",
+            "uuid": "9a9d2bde-7a29-4d96-8716-a9355e3e60db",
+            "version": "1.0.0"
+        },
+        {
+            "name": "Cash Voucher Request",
+            "description": "Generate a process description for a process named: \u201cPayment Request\u201d, The description must contains: A 20 words marketing style introduction, use one or two expressions such as: \u201creinvent, automate, promote, digitalize, outline\u201d,also a 20 words paragraph highlighting potential business values of the process, use one or two expressions such as: \u201daims, aligns, transparency, adherence and similar\u201d.",
+            "hash": "7c9fb3179da5f046420e4d7fee8c82e9861f4d70",
+            "mod_time": "2023-11-14 21:36:02",
+            "relative_path": ".\/operations\/cash-voucher-request.json",
+            "uuid": "9a9d2783-cf8f-42be-9dad-f5c785d93830",
+            "version": "1.0.0"
+        },
+        {
+            "name": "Committee approval",
+            "description": "Our \"Committee Approval\" process enhances decision-making, reduces delays, and ensures compliance, resulting in streamlined processes and more informed outcomes.",
+            "hash": "cbce1fb349026590c859b1b871b444aeff1b7b63",
+            "mod_time": "2023-09-27 19:02:28",
+            "relative_path": ".\/operations\/committee-approval.json",
+            "uuid": "992067bd-9814-4337-8100-ad261b223d0b",
+            "version": "1.6"
+        },
+        {
             "name": "Contract review",
-            "description": "A contract review process is important to ensure that contracts are fair, enforceable, and protect the interests of all parties involved.",
-            "hash": "3dafa550c131fb2d7b297cf51623256d88da3341",
-            "mod_time": "2023-08-24 15:47:53",
+            "description": "Enhance contract accuracy, reduce legal risks, and expedite deal closures by streamlining the contract review process, ensuring compliance and efficiency.",
+            "hash": "0830109a3f147b006b0591db41367689ae5ba870",
+            "mod_time": "2023-09-28 20:44:22",
             "relative_path": ".\/operations\/contract-review.json",
             "uuid": "999f12ca-6a33-4076-8938-428a0eec2bf5",
+            "version": "1.6"
+        },
+        {
+            "name": "Document Approval",
+            "description": "Efficient Document Approval boosts productivity, ensures compliance, and accelerates decision-making, enhancing overall organizational agility and customer satisfaction.",
+            "hash": "6f1d82ab1ffcc1ca27290cb626e9fd8456d67a9e",
+            "mod_time": "2023-09-13 19:35:51",
+            "relative_path": ".\/operations\/document-approval.json",
+            "uuid": "9a1be53a-2685-47be-bb88-bf3d69cc7657",
+            "version": "1.0.0"
+        },
+        {
+            "name": "Electronic Communications Consent",
+            "description": "Simplify consent management, enhance compliance, and improve communication efficiency by automating electronic consent processes, promoting seamless and transparent interactions.",
+            "hash": "641d9e3b229e3a7c4518c8a04187ad8c5e0d2c0d",
+            "mod_time": "2023-09-13 19:46:10",
+            "relative_path": ".\/operations\/electronic-communications-consent.json",
+            "uuid": "9a1c6bfc-73f5-4463-965e-07fcddf92dc5",
+            "version": "1.0.0"
+        },
+        {
+            "name": "Health Requirements",
+            "description": "Enhance healthcare efficiency, improve patient care, and ensure accurate health records by automating health requirement processes, promoting tailored and timely treatments.",
+            "hash": "7ca41a63a131a2149c830eca71669dfda9888826",
+            "mod_time": "2023-09-13 19:45:34",
+            "relative_path": ".\/operations\/health-requirements.json",
+            "uuid": "9a1c6b99-0434-45f1-b544-28ec6751603f",
             "version": "1.0.0"
         },
         {
             "name": "Incident Report",
-            "description": "Revolutionize your client communication with our innovative process template! Say goodbye to missed incidents and unresolved concerns, and embrace a streamlined approach that ensures effective and timely completion.",
-            "hash": "a35bb89a903ee5480eb27c492f3c0a3e0897abf8",
-            "mod_time": "2023-08-08 15:22:44",
+            "description": "Our \"Incident Report\" process enhances customer satisfaction by ensuring timely incident resolution, improving response times, and maintaining efficient incident management practices.",
+            "hash": "d560ff0351dcbf34b6dff9da9e83b671b06cddec",
+            "mod_time": "2023-09-28 20:51:34",
             "relative_path": ".\/operations\/incident-report.json",
             "uuid": "992065bc-2c09-47a8-80d2-4ceec137365f",
+            "version": "1.6"
+        },
+        {
+            "name": "Long Service Leave Application",
+            "description": "Introducing our modern Long Service Leave Application process, reinventing and streamlining leave requests to enhance employee satisfaction and operational efficiency. Our Long Service Leave Application process aims to align with your workforce's needs, offering transparency, adherence to leave policies, and promoting employee well-being, ensuring a harmonious work environment and seamless HR operations",
+            "hash": "8d66773c14264f1f4e717e3a9ab6ad963e5caf17",
+            "mod_time": "2023-11-14 21:43:59",
+            "relative_path": ".\/operations\/long-service-leave-application.json",
+            "uuid": "9a9d2b1e-4769-4b86-9daf-06f532b28890",
+            "version": "1.0.0"
+        },
+        {
+            "name": "Overtime Claim Approval",
+            "description": "Our Overtime Claim process streamlines and automates overtime request handling, reducing administrative burdens, improving accuracy, and ensuring timely employee compensation.",
+            "hash": "cc91b334833417c75d01e11d30ae9755a3ceae48",
+            "mod_time": "2023-09-13 19:39:34",
+            "relative_path": ".\/operations\/overtime-claim-approval.json",
+            "uuid": "9a1c0536-edeb-46ab-89bf-4136800c731f",
+            "version": "1.0.0"
+        },
+        {
+            "name": "Quality Control",
+            "description": "Our Quality Control process enhances product reliability, ensures safety, and reduces defects, bolstering brand reputation and customer satisfaction while reducing operational risks.",
+            "hash": "ff1d30cec22f306178a7327c9a2f444efcb0b3ea",
+            "mod_time": "2023-09-13 18:44:06",
+            "relative_path": ".\/operations\/quality-control.json",
+            "uuid": "9a164592-6f64-4fea-bbd6-fa7bc89eb512",
+            "version": "1.0.0"
+        },
+        {
+            "name": "Risk Assessment",
+            "description": "Our Risk Assessment process enhances project success by identifying, evaluating, and mitigating risks, ultimately optimizing decision-making, reducing uncertainties, and ensuring project success.",
+            "hash": "1598d871590dea30c1c7b02337b9a61036aea885",
+            "mod_time": "2023-09-14 19:34:31",
+            "relative_path": ".\/operations\/risk-assessment.json",
+            "uuid": "9a1646fb-3acd-43ec-93a5-fe5c33355ead",
             "version": "1.0.0"
         },
         {
             "name": "Safety Perception Survey",
-            "description": "The safety perception survey request involves the initiation of a comprehensive assessment aimed at gauging individuals' perspectives on safety within a given environment. This process enables organizations to gather valuable insights, identify potential hazards, and make informed improvements to enhance safety measures.",
-            "hash": "954b3cb791103e9ddfe77ac43d51d3224258cda8",
-            "mod_time": "2023-08-08 15:55:38",
+            "description": "Enhance workplace safety, boost employee engagement, and proactively address safety concerns by harnessing insights from safety perception surveys.",
+            "hash": "92c61509cbb4d652160d8a5901faf82f338b9307",
+            "mod_time": "2023-09-28 21:04:15",
             "relative_path": ".\/operations\/safety-perception-survey.json",
             "uuid": "99cbf5e1-ece0-4086-93e8-5c8159047a95",
-            "version": "1.0.0"
+            "version": "1.6"
         },
         {
             "name": "Safety orientation training feedback",
-            "description": "Transform safety training with our cutting-edge process, empowering seamless feedback collection and optimizing workplace procedures.",
-            "hash": "45fbc27d3cbf8190cf63445db42a7c17ebc910cb",
-            "mod_time": "2023-08-08 15:52:57",
+            "description": "Enhance workplace safety, boost employee engagement, and refine training programs by harnessing participant insights through structured feedback.",
+            "hash": "4eae43169375671a74978da2ca83831e4ed3c27a",
+            "mod_time": "2023-09-27 20:55:18",
             "relative_path": ".\/operations\/safety-orientation-training-feedback.json",
             "uuid": "999f13fb-8182-47e1-8e87-db992354c15a",
+            "version": "1.6"
+        },
+        {
+            "name": "Shift Hours Timesheet",
+            "description": "Our Shift Hours Timesheet Approval process enhances workforce efficiency, reduces errors, ensures compliance, and boosts productivity, resulting in better resource allocation.",
+            "hash": "76c82a7cbb33f98547bb24c206f727e8cc3a03fe",
+            "mod_time": "2023-09-13 19:35:24",
+            "relative_path": ".\/operations\/shift-hours-timesheet.json",
+            "uuid": "9a16519f-8cde-4ed7-a926-3adbd7858282",
             "version": "1.0.0"
         },
         {
             "name": "Site Safety Inspection",
-            "description": "Transform your safety inspection process with our groundbreaking process template! Say goodbye to manual paperwork and embrace a streamlined approach that ensures efficient inspections and seamless reporting. Our innovative template empowers you to conduct on-site safety inspections and report hazardous behaviors with ease. From completing digital checklists to automatically sending reports to designated safety representatives, our solution saves time, improves accuracy, and enhances safety protocols.",
-            "hash": "e74e8ddb7962c21a63275aaf790d5e81ee64e4d0",
-            "mod_time": "2023-08-08 15:32:05",
+            "description": "By implementing our site safety inspection process, your business aims to align teams, improve transparency, and ensure adherence to safety regulations. It enhances the effectiveness and efficiency of inspections, minimizing risks and promoting a safe work environment for all stakeholders involved.",
+            "hash": "25846b4921a7689461310a2b30dc8f397fd4ec90",
+            "mod_time": "2023-09-27 19:41:16",
             "relative_path": ".\/operations\/site-safety-inspection.json",
             "uuid": "992064ec-06cb-4c61-9add-c9a6bf8748f2",
+            "version": "1.6"
+        },
+        {
+            "name": "Training survey process",
+            "description": "Optimize training programs, boost participant satisfaction, and drive organizational growth by leveraging data-driven insights from participant feedback.",
+            "hash": "b77d0d49c1fdc94afc804646590b2ed181fff28f",
+            "mod_time": "2023-09-13 20:07:12",
+            "relative_path": ".\/operations\/training-survey.json",
+            "uuid": "9a204f7d-c481-422c-870e-ab68d8a67cf7",
+            "version": "1.5"
+        },
+        {
+            "name": "Visitor Approval Gate",
+            "description": "Our process enhances site security, reduces administrative burdens, improves visitor experience, and ensures compliance with visitor access policies, boosting overall operational efficiency.",
+            "hash": "48f69cd37a1135d0308697cfbe8a073aab936ae5",
+            "mod_time": "2023-09-13 19:34:13",
+            "relative_path": ".\/operations\/visitor-approval-gate.json",
+            "uuid": "9a164990-d53e-4648-ac20-cadd80982ec8",
             "version": "1.0.0"
         },
         {
-            "name": "Training survey",
-            "description": "A training survey request entails initiating a process to gather feedback from participants regarding their training experiences. This valuable input aids in refining training content, methods, and delivery, ultimately enhancing the overall effectiveness of training programs.",
-            "hash": "dc7b035e8e31475c3eae5a0f0be66921fd2d368d",
-            "mod_time": "2023-08-08 16:02:20",
-            "relative_path": ".\/operations\/training-survey.json",
-            "uuid": "99cbf65f-d4c0-4372-b7ee-c4d8760758ae",
+            "name": "Work Order Request",
+            "description": "Optimize resource allocation, improve task accuracy, and ensure alignment with organizational goals by efficiently managing work order requests, enhancing operational efficiency.",
+            "hash": "a35c5a000bee61faecd351ae9ca9f9daa55fcf0e",
+            "mod_time": "2023-09-13 19:46:44",
+            "relative_path": ".\/operations\/work-order-request.json",
+            "uuid": "9a1c6ced-af55-4e59-aad8-033d48420e59",
             "version": "1.0.0"
         }
     ]
